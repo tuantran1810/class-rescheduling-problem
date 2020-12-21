@@ -1,0 +1,2756 @@
+id,course
+1,Tin Học
+2,Chính trị
+3,Pháp luật
+4,Giáo dục thể chất
+5,Giáo dục quốc phòng
+6,Tin học
+7,Anh Văn
+8,Toán (Vh)
+9,Văn Học(vh)
+10,Vật Lý (vh)
+11,Hóa Học (vh)
+12,Tin Học
+13,Giáo dục thể chất
+14,Giáo dục quốc phòng an ninh
+15,Tin học
+16,Anh văn giao tiếp 1
+17,Vẽ kỹ thuật
+18,Kỹ thuật an toàn và bảo hộ lao động
+19,Vật lý ứng dụng
+20,Toán ứng dụng
+21,Anh văn giao tiếp 2
+22,Hệ thống QLCL Iso & TCQLSX
+23,Pháp luật
+24,Chính trị
+25,Anh văn giao tiếp 3
+26,Đường lối cách mạng của Đảng cộng sản Việt Nam
+27,Tư tưởng Hồ Chí Minh
+28,Vật lý đại cương
+29,Hóa học đại cương
+30,Nguyên lý cơ cản của chủ nghĩa Mác - Lê Nin
+31,Chính trị
+32,Giáo dục pháp luật và Luật dạy nghề
+33,Giáo dục thể chất
+34,Giáo dục quốc phòng
+35,Công nghệ thông tin truyền thông
+36,Tiếng anh giao tiếp 1
+37,Tiếng anh giao tiếp 2
+38,Chính trị
+39,Pháp luật
+40,Giáo dục thể chất
+41,Giáo dục quốc phòng
+42,Giáo dục quốc phòng an ninh
+43,Anh văn giao tiếp 1
+44,Tin học
+45,Kinh tế chính trị
+46,Giáo dục pháp luật và luật dạy nghề
+47,Công nghệ thông tin/truyền thông
+48,Kỹ thuật cơ khí cơ bản
+49,Tiếng Đức 1
+50,Tiếng Đức 2
+51,Tiếng Đức 3
+52,Tiếng Đức chuyên ngành
+53,Cơ lưu chất và nhiệt động học kỹ thuật
+54,Lịch trình và kế hoạch kỹ thuật
+55,Nâng chuyển thiết bị
+56,Quản lý dự án
+57,Vẽ Kỹ thuật
+58,"Kỹ thuật an toàn và Bảo hộ lao động
+"
+59,Thực hành nguội
+60,Cơ kỹ thuật
+61,"Dung sai kỹ thuật
+"
+62,"Vật liệu cơ khí
+"
+63,Kỹ thuật cơ sở 1
+64,"Tiếng anh giao tiếp 1
+"
+65,Tin học
+66,"Sức bền vật liệu
+"
+67,Cơ học chất rắn
+68,Lịch trình và kế hoạch kỹ thuật
+69,Nguyên lý kỹ thuật chế tạo chi tiết cơ khí
+70,Kỹ thuật phay
+71,Kỹ thuật tiện
+72,Phay CNC nâng cao
+73,"Thực hành Kỹ thuật cơ sở 1
+"
+74,Tiện CNC nâng cao
+75,Thiết kế kỹ thuật
+76,Toán kỹ thuật
+77,Khoa học kỹ thuật
+78,Quản lý dự án KT chuyên nghiệp
+79,Kỹ thuật SX cho lĩnh vực chế tạo
+80,Cải tiến chất lượng và qui trình
+81,Thực hành xưởng
+82,Thiết kế và chế tạo với sự hỗ trợ máy tính
+83,Đồ án nghiên cứu
+84,Công nghệ cơ khí
+85,Quản lý kỹ thuật chuyên nghiệp
+86,Nguyên lý cơ học nâng cao
+87,Toán nâng cao
+88,Kỹ thuật ứng dụng trong HTSX
+89,Sản xuất tinh gọn
+90,Công nghệ chế tạo nâng cao
+91,Mô hình hóa và mô phỏng cho kỹ sư
+92,Vật liệu học nâng cao
+93,Đồ án nghề nghiệp/ tốt nghiệp
+94,Quản lý và lãnh đạo
+95,Thực hành công nghệ cơ khí
+96,Vật liệu học nâng cao
+97,Thực hành bản vẽ kỹ thuật
+98,Tiếng anh giao tiếp 2
+99,Thực hành kỹ thuật chế tạo
+100,"Nguyên lý và qui trình chế tạo
+"
+101,Kỹ thuật cơ sở 2
+102,Thực hành thiết kế chi tiết trên máy tính 1
+103,Tiếng anh giao tiếp 3
+104,Pháp luật
+105,"Hệ thống quản lý chất lượng  (ISO)
+"
+106,"Phân  tích  bản vẽ chế tạo thiết bị cơ khí
+"
+107,Kỹ thuật cơ bản
+108,Nguyên lý chi tiết máy
+109,Thực hành dự án kỹ thuật
+110,Vật liệu và qui trình
+111,"Tiếng Anh chuyên ngành cơ khí
+"
+112,Quản lý và chế tạo nâng cao
+113,Thực hành thiết kế chi tiết trên máy tính 2
+114,Kỹ thuật thiết bị và qui trình bảo trì
+115,Thực hành Kỹ thuật thiết bị và qui trình bảo trì
+116,Giáo dục thể chất
+117,"Chính trị 
+"
+118,"Giáo dục quốc phòng
+"
+119,Thực hành kỹ thuật chế tạo nâng cao
+120,"Chế tạo, kiểm soát qui trình và quản lý chất lượng bồn áp lực"
+121,"Chế tạo, kiểm soát qui trình và quản lý chất lượng kết cấu thép"
+122,"Chế tạo, kiểm soát qui trình và quản lý chất lượng hệ thống thông gió
+"
+123,"Giải quyết vấn đề kỹ thuật 
+
+"
+124,Đồ án tốt nghiệp
+125,Cơ học vật rắn
+126,Cơ lưu chất và nhiệt động lực học kỹ thuật
+127,Công nghệ gia công kim loại
+128,Công nghệ hàn và thực hành
+129,Đảm bảo chất lượng và kiểm tra chất lượng mối hàn
+130,Đồ án kỹ thuật
+131,Động lực học hệ thống máy
+132,Khai triển chi tiết cơ khí
+133,Kỹ thuật an toàn
+134,Kỹ thuật vật liệu
+135,Tiếng Anh chuyên ngành sơ khí
+136,Mô hình hoá thiết kế mỹ thuật
+137,Nguyên lý chế tạo
+138,Nguyên lý cơ học kỹ thuật
+139,Nguyên lý điện ứng dụng trong kỹ thuật cơ khí
+140,Nguyên lý kỹ thuật
+141,Nhiệt động học ứng dụng
+142,Cơ lưu chất
+143,Quy trình chế tạo chi tiết cơ khí
+144,Thiết kế CAD cho sản xuất
+145,Thiết kế kỹ thuật
+146,Thực hành kỹ thuật thiết bi và quy trình bảo trì
+147,Tiếng Anh chuyên ngành cơ khí
+148,Tổ chức và quản lý hoạt động kỹ thuật
+149,Toán kỹ thuật
+150,Toán kỹ thuật nâng cao
+151,Toán và khoa học nâng cao
+152,Vật liệu ứng dụng kỹ thuật
+153,Kỹ thuật  an toàn
+154,Nguyên lý kỹ thuật
+155,Khai triển chi tiết cơ khí
+156,Tổ chức và quản lý hoạt động kỹ thuật
+157,Nguyên lý chế tạo
+158,"Tiện, phay, mài cơ bản"
+159,Khoa học toán nâng cao
+160,Toán kỹ thuật
+161,Lập kế hoạch và quản lý dự án kỹ thuật
+162,Kỹ thuật thiết bị và quy trình bảo trì
+163,Kỹ thuật điện ứng dụng trong cơ khí
+164,Tiếng Anh chuyên ngành cơ khí
+165,Thiết kế chi tiết cho sản xuất
+166,Thiết kế kỹ thuật
+167,Nguyên lý chi tiết máy
+168,Công nghệ CAD/ CAM/CNC
+169,Cơ lưu chất và nhiệt động học kỹ thuật
+170,Công nghệ gia công kim loại
+171,Công nghệ gia công trên các máy chuyên dùng
+172,Chế tạo bồn công nghiệp
+173,Công nghệ hàn và thực nghiệm
+174,Quản lý và kiểm tra chất lượng mối hàn
+175,Toán kỹ thuật nâng cao
+176,Cơ lưu chất
+177,Nhiệt động học ứng dụng
+178,Vật liệu ứng dụng
+179,Động lực học hệ thống máy
+180,Đồ án kỹ thuật
+181,Mô hình hóa thiết kế kỹ thuật
+182,Thực tập tốt nghiệp/ Đồ án tốt nghiệp
+183,Kỹ thuật cơ sở 1
+184,Thực hành kỹ thuật cơ sở 1
+185,Ứng dụng điện và điện tử
+186,Thực hành ứng dụng điện và điện tử
+187,Kỹ thuật cơ sở 2
+188,Thực hành giao tiếp máy tính
+189,Kỹ thuật điện tử
+190,Thực hành điện tử cơ bản
+191,Đồ án 1
+192,Nguyên lý điện nâng cao
+193,Nguyên lý hệ thống rô bốt và điều khiển tự động bằng máy tính
+194,Nguyên lý kỹ thuật điện và điện tử 1
+195,Toán kỹ thuật
+196,Nguyên lý kỹ thuật điện và điện tử 2
+197,Kỹ thuật lập tiến độ và kế hoạch
+198,Thiết kế trên máy tính để chế tạo
+199,Sử dụng các phương pháp bảo vệ điện cho kỹ thuật vận hành
+200,Dịch vụ và lắp đặt điện
+201,Cung cấp và phân phối điện năng
+202,Kiểm tra và đo lường hệ thống điện điện tử
+203,Ứng dụng hệ thống điều khiển
+204,Lập trình điều khiển tự động hóa PLC cơ bản và nâng cao
+205,Nguyên lý các mạch tương tự
+206,Mạch tuần tự và logic tích hợp
+207,Hệ thống vi xử lý cơ bản
+208,Toán nâng cao cho kỹ thuật điện điện tử
+209,Nguyên lý kỹ thuật điện điện tử nâng cao
+210,Dự án kỹ thuật
+211,Quản lý dự án
+212,Thiết bị và hệ thống điều khiển
+213,Thiết kế mạch kỹ thuật số
+214,Sử dụng và phân phối điện năng
+215,Thiết kế mạch tương tự
+216,Quản trị doanh nghiệp
+217,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+218,"Thiết kế, chế tạo bo mạch điện tử ứng dụng công nghiệp"
+219,Thiết kế kỹ thuật
+220,Toán Kỹ Thuật
+221,Khoa Học Kỹ Thuật
+222,Quản Lý Một Dự Án KT Nâng Cao
+223,"Tự động hóa, robotics và thiết bị lập trình khả trình PLCs"
+224,Nguyên lý kỹ thuật Điện-Điện Tử
+225,Máy phát và cung cấp điện
+226,Ứng dụng Cad trong KT Bảo Trì
+227,Nghiên Cứu Dự Án
+228,Quản lý kỹ thuật nâng cao
+229,Toán nâng cao
+230,Dự trữ điện và nguồn điện trong CN
+231,Hệ thống điện trong CN
+232,Hệ thống điều khiển phân tán
+233,Hệ thống nhúng
+234,Hệ thống ĐK Khí nén thủy lực
+235,Đồ án chuyên ngành
+236,Vi mạch điện tử
+237,Mô hình hóa và mô phỏng trong kỹ thuật
+238,Kỹ năng Quản lý và lãnh đạo
+239,Quản lý dự án kỹ thuật
+240,Quản lý dự án kỹ thuật
+241,Nguyên lý điện nâng cao
+242,Lắp đặt hệ thống thiết bị điều khiển tự động
+243,Dụng cụ và thiết bị điện
+244,Điện tử công suất
+245,Hệ thống khí nén và thủy lực
+246,Hệ thống cơ điện tử
+247,PLC nâng cao
+248,Lắp đặt và điều khiển điện trong công nghiệp
+249,Ứng dụng CAD trong chế tạo
+250,Đồ án 2
+251,Đồ án tốt nghiệp
+252,Tiếng anh giao tiếp 1
+253,Vẽ Kỹ thuật
+254,Kỹ thuật an toàn và Bảo hộ lao động
+255,Thực hành nguội
+256,Linh kiện điện tử
+257,Đo lường điện tử
+258,Quản lý chất lượng -ISO
+259,Vi điều khiển
+260,Tiếng anh giao tiếp 2
+261,Tiếng anh giao tiếp 3
+262,Tiếng Anh chuyên ngành Điện tử công nghiệp
+263,Thiết bị điện và nhà máy điện
+264,Quản trị doanh nghiệp
+265,Kỹ thuật an toàn
+266,Bảo trì hệ thống điện và thiết bị điện
+267,Cấp nguồn và phân phối điện năng
+268,Dịch vụ và lắp đặt điện
+269,Điện tử công suất
+270,Điều khiển lập trình PLC
+271,Đồ án 2
+272,Đồ án tốt nghiệp
+273,Dự án kỹ thuật
+274,Hệ thống cơ điện tử
+275,Hệ thống điện khí nén
+276,Hệ thống thông tin điện tử
+277,Hệ thống vi xử lý cơ bản
+278,Kiểm tra và đo lường hệ thống điện điện tử
+279,Lắp đặt và điều khiển điện trong công nghiệp
+280,Mạch tuần tự và logic tích hợp
+281,Nguyên lý các mạch Analoge
+282,Nguyên lý hệ thống rô bốt và điều khiển tự động
+283,Nguyên lý kỹ thuật
+284,Nguyên lý kỹ thuật điện điện tử
+285,Nguyên lý kỹ thuật điện điện tử 1
+286,Nguyên lý kỹ thuật điện điện tử 2
+287,Nguyên lý và vận hành máy điện
+288,PLC nâng cao
+289,Quản lý chất lượng- ISO
+290,Quản lý dự án
+291,Thiết bị và hệ thống điều khiển
+292,Thiết kế analoge
+293,Thiết kế bằng máy tính để chế tạo
+294,Thiết kế kỹ thuật số
+295,Tổ chức và quản lý kỹ thuật vận hành
+296,Toán kỹ thuật 1
+297,Toán nâng cao cho kỹ thuật điện điện tử
+298,Vi điều khiển
+299,Linh kiện điện tử
+300,Đo lường điện tử
+301,Cơ học chất rắn
+302,Kỹ thuật an toàn
+303,Nguyên lý kỹ thuật
+304,Bảo trì hệ thống điện và thiết bị điện
+305,Tổ chức và quản lý hoạt động kỹ thuật
+306,Kỹ thuật cơ sở 1
+307,Thực hành Kỹ thuật cơ sở 1
+308,Công nghệ cơ khí
+309,Kỹ thuật cơ sở 2
+310,Thực hành thiết kế chi tiết trên máy tính 1
+311,Thực hành bản vẽ kỹ thuật
+312,Thực hành kỹ thuật chế tạo
+313,Nguyên lý và qui trình chế tạo
+314,Vật liệu và qui trình
+315,"Hàn MIG/MAG cơ bản (1F, 2F, 3F, 4F)"
+316,Kỹ thuật ảo
+317,Toán nâng cao
+318,Sản xuất tinh gọn
+319,Công nghệ chế tạo nâng cao
+320,Đồ án chuyên ngành
+321,Mô hình hóa và mô phỏng trong kỹ thuật
+322,Thiết kế kỹ thuật cơ khí
+323,Quản lý dự án kỹ thuật
+324,Kỹ năng Quản lý và lãnh đạo
+325,"Hàn SMAW nâng cao (1G, 2G, 3G, 4G)"
+326,"Hàn MIG/MAG nâng cao (1G, 2G, 3G)"
+327,Hàn hồ quang dưới lớp thuốc
+328,Hàn MIG/MAG nâng cao
+329,Hàn ống CN cao 6G ( TIG+ SMAW)
+330,Quy trình hàn
+331,Hàn ống thép hợp kim
+332,Bài tập theo dự án
+333,Đồ án tốt nghiệp
+334,Tiếng anh chuyên ngành hàn
+335,Tiếng anh giao tiếp 2
+336,Tiếng anh giao tiếp 1
+337,Tin học
+338,Vẽ kỹ thuật
+339,Kỹ thuật an toàn và Bảo hộ lao động
+340,Thực hành nguội
+341,Cơ kỹ thuật
+342,Dung sai kỹ thuật
+343,Vật liệu cơ khí
+344,Sức bền vật liệu
+345,Hệ thống quản lý chất lượng ISO
+346,Tiếng anh giao tiếp 2
+347,Tiếng anh giao tiếp 3
+348,Anh văn chuyên ngành hàn
+349,Nguyên lý kỹ thuật
+350,Kỹ thuật an toàn
+351,Nguyên lý hàn
+352,Hàn TIG
+353,Hàn hồ quang dây lõi thuốc
+354,Toán kỹ thuật
+355,Kỹ thuật điện ứng dụng trong cơ khí
+356,Nguyên lý chi tiết máy
+357,Thiết kế chi tiết cho sản xuất
+358,Thiết kế kỹ thuật
+359,Lịch trình và kế hoạch kỹ thuật
+360,Bảo trì các hệ thống kỹ thuật và trang thiết bị
+361,Công nghệ gia công kim loại
+362,Công nghệ hàn và thực nghiệm
+363,Quản lý và kiểm tra chất lượng mối hàn
+364,Toán kỹ thuật nâng cao
+365,Cơ lưu chất
+366,Nhiệt động học ứng dụng
+367,Cơ học chất rắn
+368,Vật liệu ứng dụng
+369,Động lực học hệ thống máy
+370,Đồ án kỹ thuật
+371,Mô hình hóa thiết kế kỹ thuật
+372,Kiểm tra chất lượng mối hàn
+373,Cơ lưu chất và nhiệt động học kỹ thuật
+374,Hàn hồ quang tay
+375,Tiếng anh giao tiếp 3
+376,Kỹ thuật an toàn
+377,Nguyên lý kỹ thuật
+378,Hàn hồ quang dây
+379,Hàn TIG
+380,Hàn hồ quang dây lõi thuốc
+381,Nguyên lý hàn
+382,Toán kỹ thuật
+383,Lịch trình và kế hoạch kỹ thuật
+384,Thiết kế chi tiết cho sản xuất
+385,Bảo trì các hệ thống kỹ thuật và trang thiết bị
+386,Thiết kế kỹ thuật
+387,Kỹ thuật điện ứng dụng trong cơ khí
+388,Nguyên lý chi tiết máy
+389,Cơ lưu chất và nhiệt động học kỹ thuật
+390,Đồ án kỹ thuật
+391,Toán kỹ thuật nâng cao
+392,Phân tích cơ lưu chất
+393,Nhiệt động lực học ứng dụng
+394,Cơ học chất rắn
+395,Ứng dụng đặc tính của vật liệu cho kỹ thuật
+396,Động lực học hệ thống máy
+397,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+398,Mô hình thiết kế kỹ thuật
+399,Công nghệ gia công kim loại
+400,Thiết kế kỹ thuật
+401,Toán kỹ thuật
+402,Khoa học kỹ thuật
+403,Quản lý dự án KT chuyên nghiệp
+404,Các nguyên lý cơ bản của nhiệt động lực học và động cơ nhiệt
+405,Thực hành xưởng Ck
+406,Thiết kế và chế tạo với sự hỗ trợ của máy tính
+407,Nguyên lý cơ học
+408,Đồ án nghiên cứu
+409,Quản lý kỹ thuật chuyên nghiệp
+410,Nguyên lý cơ học nâng cao
+411,Kỹ thuật  an toàn
+412,Nguyên lý kỹ thuật
+413,Nguyên lý kỹ thuật chế tạo chi tiết cơ khí
+414,Kỹ thuật tiện
+415,Kỹ thuật phay
+416,Khoa học và toán nâng cao
+417,Toán kỹ thuật
+418,Kỹ thuật điện ứng dụng trong cơ khí
+419,Nguyên lý cơ học kỹ thuật
+420,Cơ lưu chất và nhiệt động học kỹ thuật
+421,Thiết kế CAD cho sản xuất
+422,Thiết kế kỹ thuật
+423,Lập kế hoạch kỹ thuật
+424,Bảo trì hệ thống kỹ thuật và thiết bị
+425,Công nghệ gia công kim loại
+426,Công nghệ hàn và thực nghiệm
+427,Quản lý và kiểm tra chất lượng mối hàn
+428,Toán kỹ thuật nâng cao
+429,Phân tích cơ lưu chất
+430,Nhiệt động học ứng dụng
+431,Cơ học chất rắn
+432,Vật liệu ứng dụng
+433,Động lực học hệ thống máy
+434,Đồ án kỹ thuật
+435,Mô hình hóa thiết kế kỹ thuật
+436,Chính trị
+437,Pháp luật
+438,Giáo dục thể chất
+439,Giáo dục quốc phòng
+440,Tiếng anh giao tiếp 1
+441,Tin học căn bản
+442,Tiếng anh giao tiếp 2
+443,Tiếng anh giao tiếp 3
+444,Vẽ Kỹ thuật
+445,Thực hành nguội
+446,Kỹ thuật an toàn và Bảo hộ lao động
+447,Cơ kỹ thuật
+448,Dung sai kỹ thuật
+449,Vật liệu cơ khí
+450,Sức bền vật liệu
+451,Hệ thống quản lý chất lượng  (ISO)
+452,"Kỹ thuật đo lường, kiểm tra sản phẩm cơ khí"
+453,Công nghệ tiện CNC cơ bản
+454,Công nghệ phay CNC cơ bản
+455,Công nghệ tiện CNC nâng cao
+456,Công nghệ phay CNC nâng cao
+457,Công nghệ cắt CNC
+458,Kỹ thuật bảo trì máy điều khiển chương trình số CNC
+459,Đồ án tốt nghiệp
+460,Tiếng Anh chuyên ngành cơ khí
+461,Phay CNC cơ bản
+462,Kỹ thuật an toàn
+463,Nguyên lý kỹ thuật
+464,Vẽ Kỹ thuật
+465,Tiếng anh giao tiếp 1
+466,Bảo trì hệ thống điện và thiết bị điện
+467,Vật liệu điện
+468,Cung cấp điện
+469,Thực hành nguội
+470,Vẽ Điện
+471,Nguyên lý kỹ thuật
+472,Khí cụ điện
+473,Kỹ thuật cảm biến
+474,Kỹ thuật an toàn và Bảo hộ lao động
+475,Nguyên lý hệ thống rô bốt và điều khiển tự động
+476,Nguyên lý kỹ thuật điện điện tử 1
+477,Nguyên lý kỹ thuật điện điện tử 2
+478,Nguyên lý và vận hành máy điện
+479,Thiết kế bằng máy tính để chế tạo
+480,Tổ chức và quản lý kỹ thuật vận hành
+481,Toán kỹ thuật 1
+482,Cấp nguồn và phân phối điện năng
+483,Dịch vụ và lắp đặt điện
+484,Điều khiển lập trình PLC
+485,Đo lường điện
+486,Hệ thống vi xử lý cơ bản
+487,Kiểm tra và đo lường hệ thống điện điện tử
+488,Mạch tuần tự và logic tích hợp
+489,Nguyên lý các mạch Analoge
+490,Quản trị doanh nghiệp
+491,Dự án kỹ thuật
+492,Kỹ thuật an toàn
+493,Nguyên lý kỹ thuật điện điện tử
+494,Quản lý dự án
+495,Thiết bị và hệ thống điều khiển
+496,Thiết kế analoge
+497,Thiết kế kỹ thuật số
+498,Toán nâng cao cho kỹ thuật điện điện tử
+499,Máy điện
+500,Kỹ thuật lắp đặt thiết bị hệ thống điện phân phối
+501,Kỹ thuật lắp đặt hệ thống thiết bị điện công nghiệp 
+502,Lập trình điều khiển tự động hóa (PLC)
+503,Sữa chữa máy điện và hệ thống thiết bị điện công nghiệp
+504,Quản lý chất lượng - ISO
+505,Đồ án tôt nghiệp
+506,Anh văn chuyên nghành điện công nghiệp
+507,Kỹ thuật an toàn
+508,Nguyên lý kỹ thuật
+509,Bảo trì hệ thống điện và thiết bị điện
+510,Tổ chức và quản lý hoạt động kỹ thuật
+511,Nguyên lý hệ thống rô bốt và điều khiển tự động bằng máy tính
+512,Nguyên lý kỹ thuật điện và điện tử 1
+513,Toán kỹ thuật
+514,Nguyên lý kỹ thuật điện và điện tử 2
+515,Thiết kế trên máy tính để chế tạo
+516,Nguyên lý và vận hành máy điện
+517,Dịch vụ và lắp đặt điện
+518,Cung cấp và phân phối điện năng
+519,Kiểm tra và đo lường hệ thống điện điện tử
+520,Lập trình điều khiển tự động hóa PLC cơ bản và nâng cao
+521,Nguyên lý các mạch tương tự
+522,Mạch tuần tự và logic tích hợp
+523,Hệ thống vi xử lý cơ bản
+524,Toán nâng cao cho kỹ thuật điện điện tử
+525,Nguyên lý kỹ thuật điện điện tử nâng cao
+526,Dự án kỹ thuật
+527,Quản lý dự án
+528,Thiết bị và hệ thống điều khiển
+529,Thiết kế mạch kỹ thuật số
+530,Thiết kế mạch tương tự
+531,Quản trị doanh nghiệp
+532,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+533,Vẽ Kỹ thuật
+534,Tiếng anh giao tiếp 1
+535,Bảo trì hệ thống điện và thiết bị điện
+536,Vật liệu điện
+537,Thực hành nguội
+538,Vẽ Điện
+539,Nguyên lý kỹ thuật
+540,Khí cụ điện
+541,Kỹ thuật cảm biến
+542,Kỹ thuật an toàn và Bảo hộ lao động
+543,Nguyên lý hệ thống rô bốt và điều khiển tự động
+544,Nguyên lý kỹ thuật điện điện tử 1
+545,Nguyên lý kỹ thuật điện điện tử 2
+546,Nguyên lý và vận hành máy điện
+547,Thiết kế bằng máy tính để chế tạo
+548,Tổ chức và quản lý kỹ thuật vận hành
+549,Toán kỹ thuật 1
+550,Cấp nguồn và phân phối điện năng
+551,Dịch vụ và lắp đặt điện
+552,Điều khiển lập trình PLC
+553,Đo lường điện
+554,Hệ thống vi xử lý cơ bản
+555,Kiểm tra và đo lường hệ thống điện điện tử
+556,Mạch tuần tự và logic tích hợp
+557,Nguyên lý các mạch Analoge
+558,Quản trị doanh nghiệp
+559,Dự án kỹ thuật
+560,Kỹ thuật an toàn
+561,Nguyên lý kỹ thuật điện điện tử
+562,Quản lý dự án
+563,Thiết bị và hệ thống điều khiển
+564,Thiết kế analoge
+565,Thiết kế kỹ thuật số
+566,Toán nâng cao cho kỹ thuật điện điện tử
+567,Cơ sở kỹ thuật tự động hóa
+568,Máy điện
+569,Lắp đặt thiết bị hệ thống phân phối và thiết bị hệ thống điều khiển điện công nghiệp
+570,Lắp đặt hệ thống thiết bị điều khiển tự động
+571,Điều khiển tự động hóa (PLC)
+572,Mạng truyền thông công nghiệp
+573,Quản lý chất lượng - ISO
+574,Đồ án tôt nghiệp
+575,Anh văn chuyên ngành lắp đặt điện và tự động hóa
+576,Hệ thống sản xuất linh hoạt 
+577,Kinh tế học và Xã hội học
+578,Giáo dục chính trị
+579,Ngoại ngữ chuyên ngành 1
+580,Sản xuất chế tạo cấu kiện bằng dụng cụ gia công bằng tay
+581,Sản xuất chế tạo cấu kiện bằng máy móc
+582,Sản xuất các cấu kiện đơn giản
+583,Bảo trì hệ thống kỹ thuật
+584,Sản xuất các chi tiết tiện và phay
+585,Lập trình và chế tạo trên máy công cụ điều khiển số
+586,Sản xuất các hệ thống thành phần về kỹ thuật
+587,Lập kế hoạch và vận hành các hệ thống kỹ thuật điều khiển
+588,Giữ ổn định các cấu kiện chức năng
+589,Gia công chính xác bề mặt
+590,Sản suất cấu kiện và các nhóm cấu trúc từ nhựa
+591,Lập kế hoạch và tổ chức chế tạo bằng máy tính
+592,Lập kế hoạch và tổ chức chế tạo có máy tính hỗ trợ
+593,Sản xuất chế tạo các công trình hàn
+594,"Lắp ráp, tháo và vận hành hệ thống kỹ thuật"
+595,Lập trình các hệ thống và thiết bị tự động
+596,Giao tiếp kỹ thuật và giao tiếp doanh nghiệp 1
+597,Lập kế hoạch và điều khiển tiến trình làm việc; kiểm tra và đánh giá kết quả công việc
+598,Quản lý chất lượng
+599,Đo và kiểm tra
+600,Nối ghép 1
+601,Gia công cắt gọt và biến dạng bằng tay
+602,Gia công bằng máy
+603,Bảo trì và bảo dưỡng các phương tiện sản xuất
+604,"Phân biệt, sắp xếp và sử dụng các loại vật liệu gia công và phụ liệu; Xử lý nhiệt"
+605,"Lập trình cho các thiết bị, máy hoặc hệ thống điều khiển số"
+606,Gia công trên các máy công cụ trên cơ sở ứng dụng các phương pháp gia công khác nhau 1
+607,"Lắp đặt và kiểm tra các cụm điều khiển thủy lực, 
+khí nén và điện khí nén"
+608,Lắp ráp và đưa hệ thống vào hoạt động
+609,Bảo trì các hệ thống kỹ thuật
+610,Thực tập tại công ty 1
+611,Nối ghép 2
+612,Ngoại ngữ chuyên ngành 2
+613,Ngoại ngữ chuyên ngành 3
+614,Giao tiếp kỹ thuật và giao tiếp doanh nghiệp 2
+615,Gia công trên các máy công cụ trên cơ sở ứng dụng các phương pháp gia công khác nhau 2
+616,Gia công trên các máy công cụ trên cơ sở ứng dụng các phương pháp gia công khác nhau 3
+617,Thực tập tại công ty  2
+618,Sản xuất các chi tiết tiện và phay
+619,Gia công chi tiết bằng máy
+620,Chế tạo các cấu kiện đơn giản
+621,Gia công chi tiết bằng dụng cụ cầm tay
+622,Gia công chi tiết bằng máy
+623,Chế tạo các cấu kiện đơn giản
+624,Bảo dưỡng hệ thống kỹ thuật
+625,Tạo hình các chi tiết thông qua gia công cắt gọt
+626,Chế tạo các hệ thống thành phần kỹ thuật của máy công cụ
+627,Gia công bằng máy công cụ điều khiển kỹ thuật số
+628,Lập kế hoạch và vận hành các hệ thống kỹ thuật điều khiển
+629,Chế tạo bề mặt định hình máy công cụ
+630,Gia công chi tiết trong quá trình gia công dựa vào máy tính
+631,Chế tạo các hệ thống kỹ thuật của máy công cụ
+632,Vận hành và bảo trì hệ thống kỹ thuật của máy công cụ
+633,Lập kế hoạch và chế tạo hệ thống kỹ thuật máy công cụ
+634,Thay đổi và tương thích hệ thống kỹ thuật máy công cụ
+635,Truyền thông xí nghiệp và kỹ thuật
+636,"Lập kế hoạch và tổ chức làm việc, đánh giá kết quả công việc"
+637,"Phân biệt, phân loại và sử dụng vật liệu và vật liệu hỗ trợ"
+638,Sản xuất các chi tiết và cấu kiện 1
+639,Bảo trì các thiết bị vận hành
+640,Kỹ thuật điều khiển
+641,"Chèn chặn, gia cố chắc chắn và vận chuyển"
+642,Định hướng khách hàng
+643,Gia công chi tiết bằng các phương pháp gia công khác nhau
+644,Lắp ráp và tháo rời
+645,Thử nghiệm và bàn giao
+646,Bảo trì chi tiết và cấu kiện
+647,Lập trình trên máy và thiết bị
+648,Kiểm tra
+649,"Quá trình kinh doanh và hệ thống bảo đảm 
+chất lượng trong lĩnh vực sử dụng 1"
+650,Thực tập tại công ty 
+651,Sản xuất các chi tiết và cấu kiện 2
+652,"Quá trình kinh doanh và hệ thống bảo đảm 
+chất lượng trong lĩnh vực sử dụng 2"
+653,Bảo trì các thiết bị vận hành
+654,Sản xuất chế tạo cấu kiện bằng máy móc
+655,Đo và kiểm tra 1
+656,Gia công chi tiết bằng máy
+657,Bảo dưỡng các hệ thống kỹ thuật
+658,Chế tạo các chi tiết bằng tôn tấm
+659,Chế tạo các chi tiết bằng phôi liệu định hình
+660,Chế tạo các chi tiết bằng gia công biến dạng
+661,Tháo và lắp các cụm chi tiết trong nhà xưởng
+662,Chế tạo các kết cấu thép và kim loại
+663,"Chế tạo các loại cửa, cổng, hàng rào song sắt"
+664,"Chế tạo các loại cửa sổ, kết cấu mặt tiền và khung lắp kính"
+665,Chế tạo các loại cầu thang và lang can
+666,Bảo trì các hệ thống kết cấu thép và kết cấu kim loại khác
+667,Giao tiếp kỹ thuật và giao tiếp doanh nghiệp 1
+668,Lập kế hoạch và điều khiển tiến trình làm việc; kiểm tra và đánh giá kết quả công việc 1
+669,Quản lý chất lượng 1
+670,Đo và kiểm tra 2
+671,Nối ghép 1
+672,Gia công cắt gọt và biến dạng bằng tay
+673,Gia công bằng máy 1
+674,Bảo trì và bảo dưỡng các phương tiện sản xuất
+675,Lập kế hoạch và điều khiển tiến trình làm việc; kiểm tra và đánh giá kết quả công việc 2
+676,Giao tiếp kỹ thuật và giao tiếp doanh nghiệp 2
+677,Đo và kiểm tra 3
+678,Quản lý chất lượng 2
+679,Nối ghép 2
+680,"Hàn, cắt bằng nhiệt 1"
+681,Gia công bằng máy 2
+682,Gia công biến dạng bằng máy và bằng tay vật liệu tấm và vật liệu hình
+683,Kỹ thuật điện
+684,Xử lý và bảo vệ các  bề mặt
+685,Vận chuyển các chi tiết và cụm chi tiết
+686,Tháo và lắp các chi tiết và cụm chi tiết
+687,"Giao tiếp doanh nghiệp, kỹ thuật và định hướng khách hàng"
+688,Đo và kiểm tra 4
+689,Nối ghép 3
+690,"Lắp ráp và kiểm tra các linh kiện điện, khí nén và thủy lực"
+691,Gia công bằng máy 3
+692,Trang bị các vị trí làm việc trên công trường xây dựng
+693,Chế tạo các kết cấu xây dựng bằng thép hoặc các kim loại khác
+694,Chế tạo và bắt chặt các chi tiết và các thành phần trong xưởng xây dựng
+695,Lắp ráp và tháo dỡ các kết cấu xây dựng bằng thép và bằngcác kim loại khác
+696,"Lắp ráp, kiểm tra và điều chỉnh các hệ thống"
+697,Bảo trì các kết cấu xây dựng bằng thép hoặc bằng các kim loại khác
+698,"Hàn, cắt bằng nhiệt 2"
+699,Kinh tế học và Xã hội học 1
+700,Kinh tế học và Xã hội học 2
+701,Ngoại ngữ chuyên ngành 1
+702,Ngoại ngữ chuyên ngành 2
+703,Ngoại ngữ chuyên ngành 3
+704,Gia công chi tiết bằng dụng cụ cầm tay
+705,Chế tạo các cụm chi tiết đơn giản
+706,Kỹ thuật an toàn
+707,Toán kỹ thuật
+708,Chuyển giao các hệ thống cơ điện tử cho khách hàng
+709,Vẽ kỹ thuật cơ khí 
+710,Dung sai lắp ghép và đo lường kỹ thuật
+711,Vật lý đại cương 
+712,Toán cao cấp 
+713,Chế tạo phôi hàn 
+714,Kỹ thuật an toàn và bảo hộ lao động
+715,Hình học họa hình 
+716,Gá lắp kết cấu hàn  
+717,Hàn hồ quang tay cơ bản
+718,Hàn hồ quang tay nâng cao
+719,Kỹ thuật điện - Điện tử công nghiệp
+720,Hàn MIG/MAG cơ bản 
+721,Hàn MIG/MAG nâng cao 
+722,Hàn TIG cơ bản 
+723,Quy trình hàn 
+724,Hàn TIG nâng cao 
+725,Tính toán kết cấu hàn 
+726,Hàn tiếp xúc (hàn điện trở)
+727,Vật liệu cơ khí 
+728,Cơ kỹ thuật 
+729,Kiểm tra đánh giá chất lượng hàn theo tiêu chuẩn quốc tế
+730,Hàn tự động duới  lớp thuốc
+731,Hàn kim loại và hợp kim màu 
+732,Thực hành nguội
+733,Anh văn chuyên ngành 
+734,Thực tập sản xuất 
+735,Tổ chức quản lý sản xuất 
+736,Hàn ống công nghệ cao 
+737,Thực hành nâng chuyển 
+738,Hệ thống quản lý chất lượng ISO 
+739,Hàn khí  
+740,Hàn hồ quang tay dây lõi thuốc (FCAW) cơ bản
+741,Rô bốt hàn
+742,Hàn hồ quang tay ống thép hợp kim
+743,Thực tập tốt nghiệp 
+744,Hàn hồ quang dây lõi thuốc (FCAW) nâng cao
+745,Dung sai lắp ghép và đo lường kỹ thuật
+746,Vật liệu cơ khí
+747,Cơ kỹ thuật
+748,Sức bền vật liệu
+749,Kỹ thuật điện ứng dụng trong cơ khí
+750,Kỹ thuật cơ khí cơ bản
+751,Vật liệu hàn
+752,Chế tạo phôi và Gá lắp kết cấu hàn
+753,Hàn hồ quang tay cơ bản
+754,Anh văn chuyên ngành Hàn
+755,Hàn hồ quang tay nâng cao
+756,Hàn MIG/MAG cơ bản
+757,Hàn hồ quang dây lõi thuốc (FCAW)
+758,Hàn TIG cơ bản
+759,Quy trình hàn
+760,Phân tích bản vẽ và ký hiệu mối hàn theo tiêu chuẩn quốc tế
+761,Hàn TIG nâng cao
+762,Hàn MIG/MAG nâng cao
+763,Hàn ống công nghệ
+764,"Rô bốt hàn, Hàn laser, plasma"
+765,Hàn tiếp xúc (hàn điện trở)
+766,Hàn tự động dưới lớp thuốc
+767,Hàn kim loại và hợp kim màu
+768,Xử lý nhiệt mối hàn
+769,Kiểm tra và đánh giá chất lượng mối hàn theo tiêu chuẩn quốc tế
+770,Thiết kế kết cấu hàn CAD/SOLIDWORKS
+771,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+772,Cơ ứng dụng cho gia công kim loại tấm
+773,Sức khỏe an toàn và bảo vệ môi  trường
+774,Hàn khí ô xy - Axetylen
+775,Hàn hồ Quang tay MMA
+776,Thiết kế quá trình và quy trình
+777,Vật liệu và sản phẩm đầu vào
+778,Giao tiếp chuyên môn
+779,Hàn Mag
+780,Hàn Mig
+781,Hàn Tig
+782,Đồ án kỹ thuật hàn
+783,Nghiên cứu sản phẩm kim loại
+784,Hàn điện trở RW (121)
+785,Hàn vẩy cứng và vẩy mềm
+786,"Hàn Lazer, Plasma, SAW"
+787,Hàn Robot
+788,Hàn TIG Orbital
+789,Kiểm soát chất lượng
+790,Bảo trì hàn
+791,"Sức khoẻ, an toàn và bảo vệ môi trường"
+792,Quản lý kinh tế và kỹ thuật
+793,Khoa học vật lý ứng dụng
+794,Mạch điện
+795,Vẽ kỹ thuật
+796,Toán ứng dụng
+797,Vật lý ứng dụng
+798,An toàn điện
+799,Vẽ điện
+800,Vật liệu điện
+801,Khí cụ điện
+802,Điện tử cơ bản
+803,Kỹ thuật nguội
+804,Máy điện 1
+805,Cung cấp điện
+806,Kỹ thuật xung - số
+807,Đo lường điện
+808,Máy điện 2
+809,Trang bị điện
+810,Điện tử công suất
+811,Thiết bị điện gia dụng
+812,Anh văn chuyên ngành
+813,Điều khiển điện khi nén
+814,Kỹ thuật cảm biến
+815,Truyền động điện
+816,"Lắp đặt hệ thống chông sét, tiếp địa"
+817,Kỹ thuật lạnh
+818,Sửa chữa và vận hành máy điện
+819,Thực hành trang bị điện
+820,PLC cơ bản
+821,Kỹ thuật lắp đặt điện trong công nghiệp
+822,Nâng chuyển thiết bị
+823,Đọc bản vẽ theo tiêu chuẩn quốc tế
+824,Tổ chức sản xuất
+825,PLC nâng cao
+826,Thực tập tốt nghiệp
+827,Quản lý chất lượng ISO
+828,Máy điện
+829,Kỹ thuật lắp đặt điện cơ bản
+830,LĐ hệ thống thiết bị tiếp địa & chống sét
+831,Điện tử công suất 1
+832,Cung cấp điện
+833,Kỹ thuật truyền động điện
+834,"KTLĐ thiết bị, đấu nối & VH mạch điện ĐK ứng dụng trong CN 1"
+835,KT lập trình ĐK PLC cơ bản
+836,Anh văn chuyên ngành điện
+837,PT bản vẽ theo tiêu chuẩn QT 1
+838,KT điều khiển điện khí nén 1
+839,KT LĐ cảm biến CN
+840,KT điện lạnh
+841,Sửa chữa và bảo dưỡng máy điện
+842,"KTLĐ thiết bị, đáu nối & VH mạch điện ĐK ứng dụng trong CN 2"
+843,KT điều khiển điện khí nén 2
+844,LĐ và VH hệ thống thủy lực
+845,Hế thống sản xuất linh hoạt (MPS)
+846,PT bản vẽ điện theo tiêu chuẩn QT 2
+847,Lập trình ĐK tự động hóa PLC nâng cao
+848,Trang bị điện cho máy công cụ
+849,TTTN/ Đồ án TT
+850,Trang bị điện 2
+851,Vật liệu kỹ thuật điện
+852,Kỹ thuật cảm biến công nghiệp
+853,Kỹ thuật điện 2
+854,Kỹ thuật đo lường điện 2
+855,Kỹ thuật điều khiển tự động hóa 1
+856,Kỹ thuật đấu nối và VH mạch điện ĐK ứng dụng trong công nghiệp 2
+857,Kỹ thuật điện 1
+858,Kỹ thuật điều khiển tự động hoá 2
+859,Kỹ thuật đo lường điện 1
+860,Phân tích bản vẽ theo tiêu chuẩn Quốc tế
+861,Lắp đặt truyền tải và phân phối điện năng
+862,Phân tích bản vẽ điện điện tử theo tiêu chuẩn quốc tế
+863,"Kỹ thuật đấu nối, kiểm tra và VH mạch điện ĐK ứng dụng trong công nghiệp 1"
+864,Toán ứng dụng
+865,Vật lý ứng dụng
+866,Lý thuyết mạch
+867,Vẽ kỹ thuật
+868,Vẽ điện
+869,Vật liệu điện 
+870,Kỹ thuật an toàn và bảo hộ lao động
+871,Cung cấp điện
+872,Điện tử cơ bản
+873,Máy điện
+874,"Lắp đặt hệ thống chông sét, tiếp địa và chống sét 2"
+875,Kỹ thuật số
+876,Nguội cơ bản
+877,Trang bị điện
+878,Đo lường thí nghiệm điện 
+879,Lắp đặt hệ thống chiếu sáng
+880,Sửa chữa và bảo dưỡng máy điện
+881,Điện tử công nghiệp
+882,Lắp đặt đường dây truyền tải
+883,Lắp đặt thiết bị phân phối
+884,"Lắp đặt hệ thống chông sét, tiếp địa"
+885,Lắp đặt cảm biến công nghiệp
+886,Anh văn chuyên ngành
+887,Nâng chuyển thiết bị
+888,Lắp đặt hệ thống thiết bị điều khiển công nghiệp 
+889,Vận hành các trạm biến áp
+890,PLC cơ bản 
+891,Đọc bản vẽ theo tiêu chuẩn quốc tế
+892,Quản lý doanh nghiệp và tổ chức sản xuất
+893,PLC nâng cao
+894,Thực tập sản xuất
+895,Quản lý chất lượng ISO
+896,Kỹ thuật cơ khí cơ bản
+897,Vật liệu điện
+898,Lý thuyết mạch điện
+899,Khí cụ điện
+900,Vẽ kỹ thuật điện
+901,Kỹ thuật đo lường điện
+902,Điện tử cơ bản
+903,Máy điện
+904,Kỹ thuật lắp điện cơ bản
+905,LĐ hệ thống thiết bị tiếp địa và chống sét 1
+906,Cung cấp điện
+907,KT lập trình điều khiển PLC cơ bản
+908,Anh văn chuyên ngành điện
+909,PT bản vẽ theo tiêu chuẩn QT 1
+910,LĐHT thiết bị ĐK điện trong CN 1
+911,KT đấu nối và VH mạch điện ĐK ứng dụng trong CN 1
+912,LĐ thiết bị hệ thống phân phối
+913,KT điều khiển điện khí nén 1
+914,"Nguyên lý & KTLĐ đường dây truyền tải trung áp, hạ áp"
+915,KT lắp đặt cảm biến CN
+916,Kỹ thuật điện lạnh
+917,LĐ & vận hành hệ thống thủy lực
+918,LĐ hệ thống thiết bị tiếp địa & chống sét 2
+919,Phân tích bản vẽ điện theo tiêu chuẩn QT 2
+920,Lắp đặt HT thiết bị điều khiển điện trong CN 2
+921,KT đấu nối & vận hành mạch điện ĐK ứng dụng trong CN 2
+922,Hệ thống sản xuất linh hoạt
+923,TTTN/ Đồ án TN
+924,Điện tử công suất 1
+925,Linh kiện điện tử
+926,Đo lường điện tử
+927,Mạch điện tử
+928,Vi mạch tương tự
+929,Vi mạch tương tự
+930,Máy điện
+931,Trang bị điện
+932,Điện cơ bản
+933,Kỹ thuật cảm biến
+934,Điện tử cơ bản
+935,Điện tử công suất
+936,Kỹ thuật xung - số
+937,Vi xử lý
+938,Điện tử nâng cao
+939,Điện tử nâng cao
+940,Vi điều khiển
+941,Vi mạch số lập trình
+942,PLC nâng cao
+943,Lắp đặt thiết bị điện công nghiệp
+944,Profibus
+945,Cấu trúc máy tính
+946,Máy điện
+947,Kỹ thuật lắp đặt điện cơ bản
+948,Điện tử công suất 1
+949,Kỹ thuật lắp đặt điện tử cơ bản
+950,Kỹ thuật lập trình điều khiển PLC cơ bản
+951,Anh văn chuyên ngành điện
+952,Phân tích bản vẽ điện điện tử theo tiêu chuẩn quốc tế 1
+953,Kỹ thuật ứng dụng vi điều khiển trong công nghiệp
+954,"Thiết kế, chế tạo bo mạch điện tử ứng dụng công nghiệp 1"
+955,Kỹ thuật điều khiển điện khí nén 1
+956,Lập trình ứng dụng vi điều khiển 1
+957,Điện tử công suất 2
+958,Kỹ thuật lắp đặt cảm biến công nghiệp
+959,Điện tử công nghiệp
+960,Lắp đặt và điểu khiển hệ thống thủy lực
+961,Kỹ thuật điều khiển điện khí nén 2
+962,Phân tích bản vẽ điện điện tử theo tiêu chuẩn quốc tế 2
+963,Rô bốt công nghiệp
+964,"Thiết kế, chế tạo bo mạch điện tử ứng dụng công nghiệp 2"
+965,Lập trình ứng dụng vi điều khiển 2
+966,Lập trình điều khiển tự động hóa PLC  nâng cao
+967,Hệ thống sản xuất linh hoạt (MPS)
+968,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+969,Linh kiện điện tử và các mạch điện tử cơ bản
+970,Kỹ thuật truyền dữ liệu
+971,Lắp đặt các hệ thống điều khiển quá trình cũng như PT & xử lý sự cố
+972,Lắp đặt và kiểm tra hệ thống điện
+973,Máy điện
+974,Cơ bản về mạch điện và kỹ thuật số
+975,Điện tử công suất 1
+976,Cơ sở tự động hóa
+977,Mạng truyền thông công nghiệp
+978,Kỹ thuật lắp đặp & ĐK tự động hóa nâng cao
+979,Kỹ thuật điều chỉnh
+980,Lắp đặt & vận hành HT điều khiển khí nén & thủy lực
+981,Đo lường và phân tích chức năng hệ thống
+982,Nguồn điện xoay chiều nhiều pha
+983,Toán cao cấp
+984,Vật lý đại cương
+985,Hình học hoạ hình 
+986,Vẽ kỹ thuật
+987,Dung sai và lắp ghép 
+988,Cơ lý thuyết
+989,Sức bền vật liệu
+990,Vật liệu cơ khí
+991,Công nghệ gia công kim loại
+992,Kỹ thuật an toàn và Bảo hộ lao động
+993,Thực hành nguội
+994,Hàn điện cơ bản
+995,Cắt khí cơ bản
+996,Lắp mạch điện cơ bản
+997,Đo kiểm tra kích thước thiết bị cơ khí
+998,Sử dụng dụng cụ thiết bị nghề CTTBCK
+999,Chế tạo hệ thống thông gió
+1000,Phân tích bản vẽ chế tạo cơ khí
+1001,Tiếng Anh chuyên ngành
+1002,Quản lý doanh nghiệp và tổ chức sản xuất
+1003,Nâng chuyển thiết bị
+1004,Chế tạo băng tải
+1005,Chế tạo khung bằng thép hình 
+1006,Chế tạo khung nhà công nghiệp
+1007,Chế tạo lan can cầu thang
+1008,Chế tạo cột điện cao thế # 35 kv
+1009,CAD/CAM - CNC căn bản
+1010,Chế tạo bồn bể
+1011,Hệ thống quản lý chất lượng ISO
+1012,Chế tạo dầm tổ hợp
+1013,Chế tạo chi tiết trên máy CNC
+1014,Thực tập tốt nghiệp
+1015,Đồ Gá
+1016,Chế tạo bun ke - silô
+1017,Chống gỉ kết cấu thiết bị cơ khí
+1018,Chế tạo thiết bị lọc bụi kiểu ly tâm - siclon
+1019,"Cắt kim loại tấm bằng ôxy - khí chảy, hồ quang Plasma trên máy CNC"
+1020,Dung sai lắp ghép và đo lường kỹ thuật
+1021,Vật liệu cơ khí
+1022,Cơ kỹ thuật
+1023,Sức bền vật liệu
+1024,Kỹ thuật điện ứng dụng trong cơ khí
+1025,Kỹ thuật cắt khí Gas - Oxy cơ bản
+1026,Kỹ thuật cơ khí cơ bản
+1027,Hàn hồ quang tay cơ bản
+1028,Nâng chuyển thiết bị
+1029,Anh văn chuyên ngành Cơ khí
+1030,Kỹ thuật đo lường sản phẩm cơ khí
+1031,"Tiện, phay, mài cơ bản"
+1032,Phân tích bản vẽ cơ khí theo tiêu chuẩn quốc tế
+1033,Công nghệ gia công trên các máy chuyên dùng
+1034,Chế tạo kết cấu thép
+1035,Chế tạo bồn công nghiệp
+1036,Khai triển chi tiết cơ khí
+1037,Đồ gá
+1038,Công nghệ chế tạo máy
+1039,Nguyên lý chi tiết máy
+1040,Thiết kế chi tiết cơ khí 2D (CAD)
+1041,Thiết kế chi tiết cơ khí 3D (CAD/SOLIDWORKS)
+1042,Công nghệ CAD/CAM/CNC
+1043,Chế tạo băng tải
+1044,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1045,Chống gỉ kết cấu thiết bị cơ khí
+1046,Lắp đặt mạch điện cơ bản
+1047,Thực hành sử dụng dụng cụ cầm tay
+1048,Toán cao cấp
+1049,Vật lý đại cương
+1050,Hình học hoạ hình 
+1051,Vẽ kỹ thuật
+1052,Dung sai và lắp ghép 
+1053,Cơ lý thuyết
+1054,Sức bền vật liệu
+1055,Vật liệu cơ khí
+1056,Chi tiết máy
+1057,Kỹ thuật an toàn và Bảo hộ lao động
+1058,Thực hành nguội
+1059,Hàn điện cơ bản và cắt khí
+1060,Máy nâng chuyển 
+1061,Đo kiểm kích thước và vị trí 
+1062,Tiếng Anh chuyên ngành
+1063,Thực hành điện cơ bản
+1064,Bảo dưỡng kỹ thuật máy và thiết bị nâng đơn giản
+1065,Lắp đặt máy gia công kim loại
+1066,Lắp đặt thang máy
+1067,Quản lý doanh nghiệp và tổ chức sản xuất
+1068,Hệ Thống Quản lí chất lượng ISO
+1069,Phân tích hệ thống bản vẽ cơ khí
+1070,Lắp đặt cầu trục
+1071,Lắp đặt băng tải
+1072,Lắp đặt tuabin 
+1073,CAD/CAM - CNC căn bản
+1074,Lắp đặt nhà thép tiền chế
+1075,Lắp đặt lò hơi
+1076,Các quy trình lắp đặt thiết bị cơ khí
+1077,Thực tập sản xuất
+1078,Lắp đặt máy bơm
+1079,Lắp đặt máy phát điện
+1080,Sử dụng và bảo dưỡng thiết bị nghề LĐTBCK
+1081,Lắp đặt hệ thống bồn công nghiệp
+1082,Lắp đặt hệ thống nhà thép tiền chế
+1083,Lắp đặt máy gia công kim loại
+1084,Lắp đặt và cân chỉnh tuabin - máy phát
+1085,Toán cao cấp
+1086,Vật lý đại cương
+1087,Hình học hoạ hình 
+1088,Vẽ kỹ thuật
+1089,Dung sai và lắp ghép 
+1090,Cơ lý thuyết
+1091,Sức bền vật liệu
+1092,Vật liệu cơ khí
+1093,Kỹ thuật an toàn và Bảo hộ lao động
+1094,Thực hành nguội
+1095,Thực hành hàn và cắt khí 
+1096,Chọn lựa vật tư và phụ kiện 
+1097,Đo Ống công nghệ
+1098,Nâng chuyển  thiết bị
+1099,Thực hành điện cơ bản
+1100,Khai triển Ống công nghệ         
+1101,Phân tích hệ thống bản vẽ ống 
+1102,Chế tạo phụ kiện ống 
+1103,Quản lý doanh nghiệp và tổ chức sản xuất
+1104,Tiếng Anh chuyên ngành
+1105,Chế tạo giá đỡ ống 
+1106,Chế tạo cụm ống 
+1107,Lắp đặt giá đỡ 
+1108,Lắp đặt máy bơm
+1109,Lắp đặt ống và phụ kiện chìm (U/G)
+1110,Hệ thống quản lý chất lượng ISO 
+1111,Lắp đặt ống thép không gỉ 
+1112,Lắp đặt ống và phụ kiện trên bờ (Onshore)
+1113,Lắp đặt ống và phụ kiện trên giá đỡ (A/G) 
+1114,Thực tập  sản xuất
+1115,Lắp đặt ống qua sông/đầm lầy 
+1116,Bảo ôn đường ống
+1117,"Sử dụng dụng cụ, thiết bị lắp đặt hệ thống đường ống"
+1118,Chế tạo và lắp đặt cụm ống
+1119,Lắp đặt và bảo ôn hệ thống đường ống
+1120,Lắp đặt và cân chỉnh máy bơm
+1121,Lắp đặt hệ thống tuyến ống nhà máy điện
+1122,Hàn điện cơ bản
+1123,Tiếng anh chuyên ngành cơ điện tử
+1124,Vật liệu công nghiệp
+1125,Cơ học ứng dụng
+1126,"Nguyên lý, chi tiết máy"
+1127,Toán kỹ thuật
+1128,An toàn lao động và môi trường
+1129,Vẽ kỹ thuật cơ khí
+1130,"Vẽ kỹ thuật điện, điện tử"
+1131,Dung sai và đo lường kỹ thuật
+1132,"Đo lường điện, điện tử"
+1133,Kỹ thuật số
+1134,Kinh tế công nghiệp và quản lý chất lượng
+1135,Nhập môn cơ điện tử
+1136,Đi dây và lắp đặt mạch điện ( an toàn)
+1137,Lắp đặt mạch điện tử (an toàn)
+1138,"Lập trình, điều khiển hệ thống cơ điện tử  sử dụng PLC ( bao gồm cả Logo)"
+1139,Kỹ thuật cảm biến
+1140,Điện tử công suất và truyền động điện
+1141,Gia công các chi tiết cơ khí bằng thủ công
+1142,Công nghệ gia công vật liệu (Gia công áp lực)
+1143,Hàn
+1144,"Gia công cơ khí trên máy công cụ vạn năng ( tiện, phay)"
+1145,Gia công cơ khí  trên máy CNC
+1146,"Lắp đặt, vận hành và kiểm tra hệ thống khí nén, điện - khí nén"
+1147,"Lắp đặt, vận hành và kiểm tra hệ thống thuỷ lực, điện- thuỷ lực"
+1148,"Lập trình, điều khiển hệ thống cơ điện tử dụng vi điều khiển"
+1149,"Điều khiển, giám sát hệ thống cơ điện tử( gồm mạng truyền thông công nghiệp và HMI, WIncc)"
+1150,Tháo lắp các cụm máy công cụ ( có thể thực hiện tại công ty)
+1151,Lắp đặt vận hành và bảo dưỡng hệ thống cơ điện tử
+1152,"Đồ án môn học: Thiết kế, chế tạo lập trình điều khiển mô hình hệ thống cơ điện tử ( phối hợp với công ty)"
+1153,Thực tập tốt nghiệp
+1154,Robot công nghiệp
+1155,Cài đặt các thiết bị điện có cân nhắc các yếu tố liên quan đến an toàn
+1156,Thiết kế và thực hiện các hệ thống cơ điện tử
+1157,Bảo trì dự phòng
+1158,Chuyển giao các hệ thống cơ điện tử cho khách hàng
+1159,Tiếng anh kỹ thuật
+1160,Cơ sở kỹ thuật điện/điện tử và các biện pháp bảo vệ an toàn
+1161,"An toàn lao động, sức khỏe và bảo vệ môi trường"
+1162,Toán kỹ thuật
+1163,Khoa học vật liệu
+1164,Giao tiếp kỹ thuật
+1165,Kỹ thuật sản suất
+1166,Phân tích chức năng trong các hệ thống cơ điện tử
+1167,Máy điện và truyền động điện
+1168,Kỹ thuật số
+1169,Điện tử công suất
+1170,"Cấu trúc, chức năng, ứng dụng của hệ thống CNTT và các giao diện"
+1171,Kỹ thuật xử lý dữ liệu trong các hệ thống cơ điện tử và quá trình sản xuất
+1172,"Các phần tử, cụm phần tử trong hệ thống cơ điện tử"
+1173,Phương pháp tìm lỗi và sửa chữa hệ thống cơ điện tử
+1174,Chiến lược bảo trì và bảo dưỡng hệ thống cơ điện tử
+1175,Robot công nghiệp
+1176,Cơ bản về quản lý chất lượng
+1177,Gia công cơ khí và vật liệu nhựa cơ bản
+1178,Gia công bằng máy công cụ vạn năng
+1179,Làm việc với các máy gia công CNC
+1180,Lắp đặt và đấu nối các mạch điện ứng dụng
+1181,"Lắp đặt các phần tử và thiết bị điện, điện tử"
+1182,Giao tiếp trong mạng truyền thông công nghiệp
+1183,Lắp đặt và kiểm tra hệ thống điều khiển khí nén và điện khí nén
+1184,Lắp đặt và kiểm tra hệ thống điều khiển thủy lực và điện thủy lực
+1185,Lập trình điều khiển hệ thống cơ điện tử sử dụng PLC
+1186,Lập trình điều khiển hệ thống cơ điện tử sử dụng vi điều khiển
+1187,Xử lý tín hiệu tương tự với PLC và các bộ điều khiển số
+1188,Đồ án môn học
+1189,"Lắp ráp, đấu nối và vận hành hệ thống cơ điện tử"
+1190,Tháo và lắp các cụm chi tiết cơ khí
+1191,Tháo và lắp các cụm chi tiết cơ khí
+1192,Lắp ráp và hiệu chỉnh thiết bị điều khiển tự động
+1193,Bảo trì và bảo dưỡng hệ thống cơ điện tử trong dây chuyền sản xuất
+1194,"Nâng cấp, mở rộng và hiệu chỉnh thiết bị công nghiệp"
+1195,Thực tập tốt nghiệp
+1196,Chuẩn bị thi 1
+1197,Chuẩn bị thi 2
+1198,Lắp ráp và hiệu chỉnh thiết bị điều khiển tự động
+1199,Lắp ráp và hiệu chỉnh hệ thống sản xuất tự động
+1200,Tháo lắp thiết bị nâng chuyển/Robot
+1201,Bảo trì và bảo dưỡng hệ thống cơ điện tử trong các quá trình công nghệ
+1202,Kinh tế chính trị
+1203,Luật kinh tế
+1204,Toán kinh tế
+1205,Soạn thảo văn bản
+1206,Anh văn chuyên ngành
+1207,Kinh tế vi mô
+1208,Lý thuyết thống kê
+1209,Lý thuyết tài chính
+1210,Lý thuyết tiền tệ tín dụng
+1211,Lý thuyết kế toán
+1212,Kinh tế vĩ mô
+1213,Thống kê doanh nghiệp
+1214,Thuế
+1215,Tài chính doanh nghiệp
+1216,Kế toán doanh nghiệp 1
+1217,Kinh tế quốc tế
+1218,Marketing
+1219,Tâm lý học quản lý
+1220,Quản trị doanh nghiệp
+1221,Thực hành kế toán doanh nghiệp 1
+1222,Kế toán ngân hàng
+1223,Kế toán trong doanh nghiệp  xây lắp
+1224,Thị trường chứng khoán
+1225,Phân tích hoạt động kinh doanh
+1226,Lập và phân tích dự án
+1227,Kế toán quản trị
+1228,Kiểm toán
+1229,Tin học kế toán
+1230,Phần mềm kế toán Misa
+1231,Kế toán hành chính sự nghiệp
+1232,Kế toán Mỹ
+1233,Thực hành khai báo Thuế
+1234,Thực tập nghề nghiệp
+1235,Thực tập tốt nghiệp
+1236,Thực hành kế toán doanh nghiệp 2
+1237,Kế toán doanh nghiệp 2
+1238,Kế toán chi phí
+1239,Thực hành KT trong DN thương mại
+1240,Thực hành KT trong DN SX
+1241,TH kế toán trong đơn vị HCSN
+1242,Kế toán thương mại dịch vụ
+1243,Kinh tế chính trị
+1244,Toán kinh tế
+1245,Luật kinh tế
+1246,Lý thuyết tài chính tiền tệ
+1247,Lý thuyết kế toán
+1248,Thị trường chứng khoán
+1249,Lý thuyết thống kê
+1250,Kinh tế vi mô
+1251,Kinh tế vĩ mô
+1252,Marketing
+1253,Kinh tế quốc tế
+1254,Thống kê doanh nghiệp
+1255,Thương mại điện tử
+1256,Tài chính doanh nghiệp
+1257,Anh văn chuyên ngành
+1258,Kế toán doanh nghiệp 1
+1259,Thực hành kế toán trong doanh nghiệp thương mại 1
+1260,Thực hành kế toán trong doanh nghiệp sản xuất 1
+1261,Phân tích hoạt động kinh doanh
+1262,Kế toán quản trị
+1263,Kế toán hành chính sự nghiệp
+1264,Kiểm toán
+1265,Tin học kế toán 1
+1266,Thuế và quyết toán thuế 1
+1267,Kế toán ngân hàng
+1268,Lập và phân tích dự án đầu tư
+1269,Kế toán doanh nghiệp 2
+1270,Thực hành kế toán trong doanh nghiệp thương mại 2
+1271,Thực hành kế toán trong doanh nghiệp sản xuất 2
+1272,Kế toán trong doanh nghiệp xây lắp
+1273,Kế toán Mỹ
+1274,Tin học kế toán 2
+1275,Thuế và quyết toán thuế 2
+1276,Thực tập nghề nghiệp
+1277,Thực tập tốt nghiệp
+1278,Quản trị học
+1279,Quản trị tiêu thụ bán hàng
+1280,Quản trị doanh nghiệp
+1281,Quản trị dự án đầu tư
+1282,Nghiệp vụ thanh toán Quốc tế
+1283,Quản trị chất lượng
+1284,Khởi sự doanh nghiệp
+1285,Phay CNC cơ bản
+1286,"Tiện, phay, mài nâng cao"
+1287,Tiện CNC cơ bản
+1288,Tiện CNC nâng cao
+1289,Phay CNC nâng cao
+1290,Công nghệ cắt kim loại CNC
+1291,Lắp đặt kiểm tra các mạch điều khiển
+1292,Gia công trên máy công cụ vạn năng cơ bản
+1293,Gia công trên máy công cụ vạn năng nâng cao
+1294,Tiện cơ bản
+1295,Phay cơ bản
+1296,Tiện CNC
+1297,Phay CNC
+1298,Thực tập  tốt nghiệp
+1299,Đồ án tốt nghiệp
+1300,Sản xuất nhóm bộ phận đơn giản
+1301,Bảo dưởng hệ thống kỹ thuật
+1302,Lắp đặt các hệ thống kỹ thuật
+1303,Lắp đặt các hệ thống kỹ thuật
+1304,Sửa chữa hệ thống hệ thống kỹ thuật
+1305,Sản xuất và đưa vào vận hành hệ thống kỹ thuật
+1306,Giám sát chất lượng sản phẩm và quy trình
+1307,Bảo đảm khả năng vận hành của hệ thống kỹ thuật
+1308,Lập kế hoạch và thực hiện các hệ thống kỹ thuật
+1309,Tối ưu hóa hệ thống kỹ thuật
+1310,Auto CAD căn bản
+1311,Kỹ thuật điện - điện tử công nghiệp
+1312,Kỹ thuật điều khiển khí nén cơ bản
+1313,Kỹ thuật điều khiển thuỷ lực cơ bản
+1314,Kỹ thuật phay nâng cao
+1315,Kỹ thuật tiện nâng cao
+1316,Kỹ thuật điều khiển điện khí nén - nâng cao
+1317,Kỹ thuật mài cơ bản
+1318,Nguội nâng cao
+1319,Phương pháp khoan- khoét- Doa- Taro
+1320,Tiện cơ bản 1
+1321,Phay cơ bản 1
+1322,Công nghệ chế tạo máy 1
+1323,Kỹ thuật điện
+1324,Kỹ thuật ĐK khí nén CB- TH yêu cầu của Bosch
+1325,Chi tiết máy- nguyên lý máy
+1326,Công nghệ chế tạo máy 2
+1327,Tiện cơ bản 2
+1328,Phay cơ bản 2
+1329,KT điều khiển điện khí nén CB- theo yêu cầu của Bosch
+1330,KT điều khiển điện khí nén NC theo Y/C của Bosch
+1331,Tiện nâng cao
+1332,Phay nâng cao
+1333,Thiết kế trên máy tính Auto CAD
+1334,Điện tử công nghiệp
+1335,Công nghệ CAD/ CAM
+1336,Công nghệ EDM
+1337,Lập trình điều khiển PLC- lý thuyết
+1338,Lập trình điều khiển PLC- thực hành
+1339,Hệ thống FMS
+1340,Kỹ thuật hàn
+1341,Gia công EDM
+1342,Đảm bảo khả năng vận hành của hệ thống kỹ thuật
+1343,Quản lý doanh nghiệp và tổ chức sản xuất
+1344,Kỹ thuật lắp đặt và điều khiển tự động hoá cơ bản
+1345,Bảo trì và sửa chữa hệ thống tự động hoá công nghiệp
+1346,"Lắp đặt, kiểm tra và vận hành hệ thống điện"
+1347,"Bảo trì, sữa chữa hệ thống điện"
+1348,Tiếng Anh kỹ thuật
+1349,Toán kỹ thuật
+1350,Mạch điện một chiều và xoay chiều một pha
+1351,Nguồn điện xoay chiều một pha
+1352,Nguồn điện xoay chiều nhiều pha
+1353,Cơ bản về kỹ thuật điện/ điện tử và các biện pháp an toàn
+1354,"An toàn lao động, bảo vệ sức khỏe và môi trường"
+1355,An toàn điện và các biện pháp bảo vệ 1
+1356,Cơ bản về mạch điện và kỹ thuật số
+1357,Điện tử công suất 1
+1358,Kỹ thuật điều chỉnh
+1359,Máy điện
+1360,An toàn điện và các biện pháp bảo vệ 2
+1361,Kỹ thuật tự động hóa
+1362,Giao tiếp kỹ thuật
+1363,Kỹ thuật truyền dữ liệu
+1364,Kỹ thuật điều khiển và truyền động điện
+1365,Quản lý chất lượng
+1366,Điện tử công suất 2
+1367,Gia công cơ bản kim loại và vật liệu dẻo
+1368,"Lắp ráp, cài đặt và kiểm tra thiết bị điện"
+1369,Cài đặt và thiết lập cấu hình hệ thống công nghệ thông tin
+1370,"Đo lường, phân tích chức năng các phần tử và hệ thống điện"
+1371,Thiết lập cấu hình và lập trình điều khiển hệ thống tự động
+1372,Lắp đặt và kiểm tra hệ thống điều khiển khí nén và thủy lực
+1373,Chuẩn bị thi - Phần 1
+1374,Chuẩn bị thi - Phần 2
+1375,Lắp đặt và kiểm tra hệ thống điện
+1376,"Lắp đặt, lập trình, kiểm tra, vận hành và bảo trì các hệ thống đo lường, điều khiển và điều chỉnh"
+1377,Cài đặt và thử nghiệm các hệ thống điều khiển với PLC (bao gồm cả VPS)
+1378,"Lắp đặt, kiểm tra, vận hành và bảo trì các hệ thống tín hiệu cảnh báo cũng như điều khiển từ xa"
+1379,Giao tiếp trong mạng truyền thông công nghiệp
+1380,"Lắp đặt, kiểm tra, vận hành và hiệu chỉnh các hệ thống năng lượng"
+1381,"Bảo trì, sửa chữa các hệ thống năng lượng, hạ tầng kỹ thuật và hệ thống tự động hóa"
+1382,"Thiết lập cấu hình, lập trình, kiểm tra và bảo trì hệ thống truyền động và tự động"
+1383,Lắp đặt các hệ thống điều khiển quá trình cũng như phân tích và xử lý sự cố
+1384,Linh kiện điện tử và khí cụ điện
+1385,Kỹ thuật thông tin
+1386,Đo lường và phân tích chức năng hệ thống điện
+1387,Cơ sở tự động hoá
+1388,Toán kỹ thuật
+1389,"Sửa chữa máy phát điện dự phòng, máy nén khí, máy điều hòa không khí."
+1390,Vật liệu xây dựng và cơ kỹ thuật
+1391,Gia công kim loại cơ bản
+1392,"Ghép nối, cắt và nắn thẳng bằng nhiệt"
+1393,Hàn khí bảo vệ ( MAG- Thép)
+1394,Hàn khí bảo vệ- Wolfram
+1395,"LĐ, kiểm tra các mạch điện ứng dụng và biện pháp bảo vệ"
+1396,"Lắp đặt, kiểm tra các mạch điều khiển"
+1397,"Gia công, dập thép tấm và thép định hình"
+1398,Gia công trên các máy công cụ vạn năng
+1399,Gia công trên máy CNC
+1400,Chế tạo các cấu kiện cơ khí từ thép tấm và thép định hình
+1401,"BD, bảo trì thiết bị và hệ thống kết cấu thép và KL"
+1402,"Tháo và lắp các chi tiết, cụm chi tiết máy"
+1403,SX và bảo quản các kết cấu XD bằng thép và KL
+1404,Toán kỹ thuật 2
+1405,Vẽ KT với sự hỗ trợ máy tính ( CAD)
+1406,Vật lý xây dựng và cơ kỹ thuật
+1407,Toán kỹ thuật
+1408,Cơ kỹ thuật và kinh tế doanh nghiệp
+1409,Tiếng Anh kỹ thuật
+1410,Giao tiếp kỹ thuật cơ bản
+1411,Giao tiếp kỹ thuật chuyên ngành
+1412,Giao tiếp kỹ thuật CAD
+1413,Giao tiếp kỹ thuật CAD/ CAM
+1414,Bảo vệ sức khỏe và môi trường
+1415,KT kiểm tra và QL chất lượng 1
+1416,KT kiểm tra và QL chất lượng 2
+1417,Kỹ thuật máy và thiết bị/ an toàn LĐ
+1418,Kỹ thuật vật liệu và gia công 1
+1419,Kỹ thuật vật liệu và gia công 2
+1420,Kỹ thuật vật liệu và gia công 3
+1421,Kỹ thuật ghép nối và lắp ráp
+1422,Gia công kim loại cơ bản- Dụng cụ cầm tay
+1423,Gia công kim loại cơ bản- Ghép nối và uốn định hình
+1424,Gia công cắt gọt với máy tiện truyền thống
+1425,Gia công cắt gọt với máy phay truyền thống
+1426,Gia công cắt gọt với máy mài truyền thống
+1427,Gia công cắt gọt với máy mài mặt trụ truyền thống
+1428,KT ứng dụng và biện pháp bảo vệ
+1429,Kỹ thuật điều khiển ứng dụng
+1430,Chuẩn bị thi - Phần 1
+1431,Chuẩn bị thi- Phần 2
+1432,Cắt gọt kim loại 1- Tiện CNC (2 trục)
+1433,Cắt gọt kim loại 2- Tiện CNC (3 trục)
+1434,Cắt gọt kim loại 3- Tiện CNC với dao cụ dẫn động (Trục C và Y)
+1435,Cắt gọt kim loại 4- Phay CNC với nhiều mặt khác nhau (5 trục)
+1436,Gia công cụm chi tiết với các DC và máy cầm tay hoặc cố định
+1437,"Bảo trì, bảo dưỡng máy móc thiết bị và HT KT"
+1438,Gia công các chi tiết và cụm chi tiết trên máy CNC
+1439,"Lập KH, giám sát và thực hiện quá trình gia công SX xuất đơn lẻ hoặc hàng loạt"
+1440,Chế tạo các chi tiết thông qua lập trình CAD/ CAM
+1441,Linh kiện và mạch điện tử
+1442,Các bộ nguồn ổn định
+1443,Toán cao cấp 2
+1444,Nhập môn lập trình
+1445,Mạng doanh nghiệp
+1446,Nguyên lý và kiến trúc mạng
+1447,Giám sát mạng
+1448,Quản lý dự án
+1449,Kỹ năng giao tiếp 3
+1450,Dự án: Hợp tác công việc
+1451,Tiếng anh chuyên ngành mạng và viễn thông 5
+1452,Kinh tế - Luật - Quản lý
+1453,Truyền thông
+1454,Quản lý sản xuất
+1455,Toán
+1456,Sự ảnh hưởng nhiệt khi Hàn
+1457,Tiếng Anh cơ sở 1
+1458,Vật lý đại cương
+1459,Toán cao cấp 1
+1460,An toàn sức khỏe
+1461,Vẽ kỹ thuật
+1462,Thực hành sử dụng các dụng cụ cầm tay
+1463,Tiếng Anh cơ sở 2
+1464,Tiếng Anh chuyên ngành mạng & viễn thông 1
+1465,Giới thiệu về mạng điện thoại
+1466,Kiến trúc máy tính
+1467,Nhập môn hệ điều hành
+1468,Giới thiệu về phát triển Web
+1469,Giới thiệu về xử lý tín hiệu
+1470,Thu thập và mã hóa thông tin
+1471,Dự án: Tìm kiếm thông tin
+1472,Kỹ năng giao tiếp 1
+1473,Dự án chuyên ngành 1
+1474,Linh kiện và mạch điện tử
+1475,Các bộ nguồn ổn định
+1476,Toán cao cấp 2
+1477,Nhập môn lập trình
+1478,Mạng doanh nghiệp
+1479,Nguyên lý và kiến trúc mạng
+1480,Toán cho chuyên ngành viễn thông: Giải tích 1
+1481,Khái niệm và công cụ xử lý tín hiệu
+1482,Mạch điện tử
+1483,lập trình 1
+1484,Phương pháp luận 1
+1485,Mạng cục bộ ( LAN)
+1486,Quản trị hệ điều hành
+1487,Công nghệ internet
+1488,Cơ sở dữ liệu
+1489,Web động ( Dynamic Web)
+1490,Giới thiệu về các dịch vụ mạng
+1491,Nguyên lý truyền sóng và vô tuyến
+1492,Truyền dẫn số
+1493,Dự án: Tìm hiểu về doanh nghiệp
+1494,Kỹ năng giao tiếp 2
+1495,Dự án chuyên ngành 2
+1496,Toán cho chuyên ngành Viễn thông: Giải tích 2
+1497,Trường điện từ và truyền sóng
+1498,Phương pháp luận 2
+1499,Mạng của nhà cung cấp dịch vụ
+1500,Truyền dẫn quang và siêu cao tần định hướng
+1501,Lắp đặt và cấu hình BTS
+1502,Truyền thông vi ba
+1503,Thực tập nghề nghiệp
+1504,Nhập môn công nghệ thông tin
+1505,Tiếng anh chuyên ngành Mạng và Viễn thông 2
+1506,Quản lý thư mục
+1507,Lập trình 2: Lập trình hướng đối tượng
+1508,Tiếng anh chuyên ngành mạng & viễn thông 3
+1509,Tiếng anh chuyên ngành mạng & viễn thông 4
+1510,Cơ sở hạ tầng không dây
+1511,Phân tích Fourier
+1512,Các công nghệ truy cập mạng
+1513,Các dịch vụ mạng nâng cao
+1514,Tự động quản trị Hệ điều hành
+1515,Truyền dẫn băng thông rộng
+1516,Khái niệm và các phép toán xử lý tín hiệu
+1517,Giới thiệu hệ thống điều hành
+1518,Mạng di động
+1519,Kỹ năng giao tiếp
+1520,Phương pháp luận
+1521,Ma trận và đồ thị
+1522,Kỹ năng mềm
+1523,Xử lý tín hiệu số
+1524,Thiết kế và xây dựng mạng LAN
+1525,Dự án chuyên ngành
+1526,Quản lý chất lượng –ISO
+1527,Chi tiết máy- nguyên lý máy
+1528,Vẽ kỹ thuật 
+1529,Vật liệu cơ khí  
+1530,Thực hành Nguội 
+1531,Dung sai lắp ghép 
+1532,Kỹ thuật điện cơ bản 
+1533,Giáo dục quốc phòng 
+1534,Kỹ thuật an toàn 
+1535,Chế tạo phôi hàn 
+1536,Gá lắp kết cấu hàn 
+1537,Hàn điện cơ bản 
+1538,"Hàn điện nâng cao 2G , 3G , 4G "
+1539,Quy trình hàn 
+1540,Anh văn chuyên ngành 
+1541,Hệ thống quản lý chất lượng ISO 
+1542,Hàn tự động dưới thuốc 
+1543,Thực tập sản xuất
+1544,"Hàn MIG/ MAG cơ bản 1F , 2 F "
+1545,Thực hành Nâng chuyển 
+1546,Cơ kỹ thuật 
+1547,Hàn kim loại màu
+1548,An toàn điện
+1549,Mạch điện
+1550,Vẽ kỹ thuật
+1551,Vẽ điện
+1552,Vật liệu điện
+1553,Khí cụ điện
+1554,Điện tử cơ bản
+1555,Thiết bị điện gia dụng
+1556,Kỹ thuật nguội
+1557,Đo lường điện
+1558,Máy điện
+1559,Cung cấp điện
+1560,Trang bị điện 1
+1561,Điện tử công suât
+1562,"Lắp đặt hệ thống chông sét, tiếp địa"
+1563,Sửa chữa và vận hành máy điện
+1564,Quản lý chất lượng ISO
+1565,Đọc bản vẽ theo tiêu chuẩn quốc tế
+1566,Điều khiển khí nén
+1567,PLC cơ bản
+1568,Tổ chức sản xuất
+1569,Kỹ thuật lắp đặt điện trong công nghiệp
+1570,Nâng chuyển thiết bị
+1571,Anh văn chuyên ngành
+1572,Thực tập tốt nghiệp
+1573,Truyền động điện
+1574,Vẽ kỹ thuật  
+1575,Vật liệu điện 
+1576,Kỹ thuật điện  
+1577,Kỹ thuật an toàn và Bảo hộ lao động
+1578,Cung cấp điện
+1579,Điện tử công nghiệp
+1580,Nâng chuyển thiết bị
+1581,Máy Điện
+1582,Nguội cơ bản
+1583,Lắp đặt đường dây truyền tải
+1584,Quản lý chất lượng ISO
+1585,Lắp đặt thiết bị phân phối  
+1586,Đo lường thí nghiệm điện 
+1587,Lắp đặt hệ thống chiếu sáng  
+1588,Sửa chữa và bảo dưỡng máy điện
+1589,Lắp đặt hệ thống thiết bị điều khiển công nghiệp 
+1590,Anh Văn chuyên ngành
+1591,Đọc bản vẽ theo tiêu chuẩn quốc tế
+1592,"Lắp đặt hệ thống chống sét, tiếp địa "
+1593,Lắp đặt hệ thống thiết bị điều khiển tự động PLC
+1594,Thực tập sản xuất.
+1595,Vẽ kỹ thuật
+1596,Dung sai và lắp ghép 
+1597,Cơ kỹ thuật
+1598,Vật liệu cơ khí
+1599,Kỹ thuật an toàn và Bảo hộ lao động
+1600,Cắt khí cơ bản
+1601,Hàn điện cơ bản
+1602,Nâng chuyển thiết bị
+1603,Thực hành nguội
+1604,Phân tích bản vẽ chế tạo cơ khí
+1605,Sử dụng dụng cụ thiết bị nghề CTTBCK
+1606,"Đo, kiểm tra kích thước thiết bị cơ khí"
+1607,Thực hành điện cơ bản
+1608,Hệ thống quản lý chất lượng ISO
+1609,"Chế tạo bồn, bể"
+1610,Tiếng Anh chuyên ngành
+1611,Chế tạo băng tải
+1612,Chế tạo hệ thống thông gió
+1613,Thực tập sản xuất
+1614,"Chế tạo lan can, cầu thang"
+1615,Chế tạo khung nhà công nghiệp
+1616,Chế tạo dầm tổ hợp
+1617,Vẽ kỹ thuật
+1618,Dung sai và lắp ghép 
+1619,Cơ kỹ thuật
+1620,Vật liệu cơ khí
+1621,Kỹ thuật an toàn và Bảo hộ lao động
+1622,Thực hành nguội
+1623,Thực hành điện cơ bản
+1624,Bảo dưỡng kỹ thuật máy và thiết bị nâng đơn giản
+1625,Hàn điện cơ bản và cắt khí
+1626,Đo kiểm kích thước và vị trí 
+1627,Lắp đặt băng tải
+1628,Lắp đặt cầu trục
+1629,Phân tích hệ thống bản vẽ cơ khí
+1630,Lắp đặt tuabin 
+1631,Tiếng Anh chuyên ngành
+1632,Hệ Thống Quản lí chất lượng ISO
+1633,Lắp đặt máy phát điện
+1634,Lắp đặt máy gia công kim loại
+1635,Thực tập sản xuất
+1636,Các quy trình lắp đặt thiết bị cơ khí
+1637,Lắp đặt nhà thép tiền chế
+1638,Lắp đặt máy bơm
+1639,Vẽ kỹ thuật
+1640,Dung sai và lắp ghép 
+1641,Cơ kỹ thuật
+1642,Vật liệu cơ khí
+1643,Kỹ thuật an toàn và Bảo hộ lao động
+1644,Thực hành nguội
+1645,Thực hành hàn và cắt khí 
+1646,Thực hành điện cơ bản
+1647, Nâng chuyển  thiết bị
+1648,Khai triển Ống công nghệ   
+1649,Đo Ống công nghệ
+1650,Phân tích hệ thống bản vẽ ống 
+1651,Chọn lựa vật tư và phụ kiện 
+1652,Chế tạo giá đỡ ống 
+1653,Chế tạo phụ kiện ống 
+1654,Tiếng Anh chuyên ngành
+1655,Lắp đặt giá đỡ 
+1656,Chế tạo cụm ống 
+1657,Lắp đặt ống và phụ kiện trên giá đỡ (A/G) 
+1658,Thực tập  sản xuất
+1659,Hệ thống quản lý chất lượng ISO 
+1660,Lắp đặt ống và phụ kiện chìm (U/G)
+1661,Lắp đặt máy bơm
+1662,Bảo ôn đường ống
+1663,Kinh tế chính trị
+1664,Luật kinh tế
+1665,Soạn thảo văn bản
+1666,Kinh tế vi mô
+1667,Lý thuyết thống kê
+1668,Lý thuyết tài chính
+1669,Lý thuyết tiền tệ tín dụng
+1670,Lý thuyết kế toán
+1671,Thống kê doanh nghiệp
+1672,Thuế
+1673,Tài chính doanh nghiệp
+1674,Kinh tế quốc tế
+1675,Thị trường chứng khoán
+1676,Quản trị doanh nghiệp
+1677,Kế toán doanh nghiệp 
+1678,Phân tích hoạt động kinh doanh
+1679,Kiểm toán
+1680,Tin học kế toán
+1681,Thực hành kế toán doanh nghiệp 
+1682,Anh văn chuyên ngành
+1683,Kế toán Mỹ
+1684,Thực tập nghề nghiệp
+1685,Thực tập tốt nghiệp
+1686,Thực hành báo cáo thuế
+1687,Kế toán quản trị
+1688,Kế toán hành chính sự nghiệp
+1689,Thực hành kế toán trong doanh nghiệp sản xuất
+1690,Tiếng anh chuyên ngành cơ điện tử
+1691,Vật liệu công nghiệp
+1692,Cơ học ứng dụng
+1693,An toàn lao động
+1694,Vẽ kỹ thuật cơ khí
+1695,Vẽ kỹ thuật điện
+1696,Autocad
+1697,Dung sai và đo lường kỹ thuật
+1698,Kỹ thuật điện-điện tử
+1699,Kiến trúc máy tính
+1700,"Đo lường điện, điện tử"
+1701,Kỹ thuật số
+1702,Nhập môn cơ điện tử
+1703,Điện cơ bản
+1704,Điện tử cơ bản
+1705,Lập trình PLC
+1706,Kỹ thuật cảm biến
+1707,Điện tử công suất
+1708,Gia công nguội cơ bản
+1709,Gia công cơ khí trên máy công cụ
+1710,Gia công trên máy CNC
+1711,Tháo lắp các cụm máy công cụ
+1712,Điều khiển khí nén 1
+1713,Điều khiển thủy lực 1
+1714,"Lắp đặt, vận hành hệ thống cơ điện tử"
+1715,Thực tập tốt nghiệp
+1716,Giám sát hệ thống cơ điện tử
+1717,Thiết kế mạch điện tử
+1718,Mạng truyền thông công nghiệp
+1719,Hệ thống CAD/CAM/CNC
+1720,Servo điện-thủy khí
+1721,Nâng cao hiệu quả công việc
+1722,"Quản lý, sử dụng năng lượng tiết kiệm, hiệu quả"
+1723,Điều khiển hệ thống cơ điện tử sử dụng PLC
+1724,Điều khiển hệ thống cơ điện tử sử dụng vi điều khiển
+1725,Đi dây và lắp đặt mạch điện(Antoan )
+1726,Lắp đặt mạch điện tử (An toan )
+1727,"Lập trình, điều khiển hệ thống cơ điện tử sử dụng PLC"
+1728,Gia công các chi tiết cơ khí bằng thủ công
+1729,"Lắp đặt, vận hành và kiểm tra hệ thống khí nén, điện-khí nén"
+1730,"Lắp đặt, vận hành và kiểm tra hệ thống thủy lực, điện-thủy lực"
+1731,"Lập trình, điều khiển hệ thống cơ điện tử sử dụng Vi điều khiển"
+1732,"Điều khiển, giám sát hệ thống cơ điện tử (gồm mạng truyền thông công nghiệp và HMI, Wincc)"
+1733,Vẽ kỹ thuật
+1734,Vật liệu cơ khí
+1735,Cơ kỹ thuật
+1736,Dung sai
+1737,Kỹ thuật an toàn
+1738,Quản lý chất lượng ISO
+1739,Gia công nguội cơ bản
+1740,"Khái niệm, nguyên lý hệ thống truyền lực máy cơ sở, Công dụng, phân loại máy nâng"
+1741,"Các cơ cấu công tác,  của máy trục"
+1742,Thiết bị an toàn và hệ thống điểu khiển máy trục
+1743,Kỹ thuật an toàn và bảo hộ lao động
+1744,Ca bin cần trục. Vị trí  ổn định cần trục
+1745,"Bảo dưỡng  cầu trục , cổng trục"
+1746,"Bảo dưỡng cần trục ( cần trục bánh lốp, bánh xích)"
+1747,Phương pháp luồn cáp cho máy trục
+1748,Kỹ thuật treo buộc hàng
+1749,"Vận hành cầu trục. Không có tải , có tải"
+1750,Truyền động thủy lực trên máy trục
+1751, Truyền động điện và tự động hóa trên máy trục
+1752,Cẩu hàng đặt vào vị trí + khử rung lắc cho cần trục
+1753,Vận hành cần trục
+1754,Cầu hàng có kích thước lớn
+1755,Kỹ thuật cẩu lật tải
+1756,"Giải phóng phương tiện vận tải, kỹ thuật chất tải"
+1757,"Cẩu lắp dựng cột, cẩu ống"
+1758,Cẩu lắp trên cao khuất ( thực hiện xi nhan bậc )
+1759,Tháo lắp. Dựng cần cho cần trục
+1760,Thử tải cho máy trục
+1761,Thực tập tại công trường
+1762,Điện kỹ thuật
+1763,Dung sai lắp ghép và đo lường kỹ thuật
+1764,An toàn lao động và vệ sinh công nghiệp
+1765,Kỹ năng giao tiếp
+1766,Bảo dưỡng động cơ đốt trong
+1767,Bảo dưỡng hệ thống điện
+1768,Bảo dưỡng hệ thống thủy lực- Khí  nén
+1769,"Bảo dưỡng gầm và thiết bị công tác cần trục bánh xích, bánh lốp"
+1770,Kỹ thuật thi công
+1771,"Vận hành cần trục bánh xích, bánh lốp"
+1772,Thực hành sản xuất
+1773,Bảo dưỡng và vận hành máy nâng
+1774,Bảo dưỡng và vận hành máy vận thăng
+1775,Thay đổi thiết bị công tác cần trục
+1776,Xử lý tình huống khi thi công
+1777,Bảo dưỡng cầu trục
+1778,Vật liệu cơ khí và dầu mỡ bôi trơn
+1779,Lắp dựng cần trục tháp
+1780,Bảo dưỡng vận hành cổng trục
+1781,Điện kỹ thuật
+1782,Điện tử cơ bản
+1783,Cơ kỹ thuật
+1784,Vật liệu học
+1785,Dung sai lắp ghép và đo lường kỹ thuật
+1786,Vẽ kỹ thuật
+1787,An toàn lao động
+1788,Thực hành Nguội cơ bản
+1789,Thực hành Hàn cơ bản
+1790,Kỹ thuật chung về ô tô và công nghệ sửa chữa
+1791,Bảo dưỡng và sửa chữa cơ cấu trục khuỷu - thanh truyền và bộ phận cố định của động cơ 1
+1792,Bảo dưỡng và sửa chữa hệ thống phân phối khí
+1793,Bảo dưỡng và sửa chữa hệ thống bôi trơn và hệ thống làm mát
+1794,Bảo dưỡng và sửa chữa hệ thống nhiên liệu động cơ xăng dùng bộ chế hòa khí
+1795,Bảo dưỡng và sửa chữa hệ thống nhiên liệu động cơ diesel
+1796,Sửa chữa - bảo dưỡng hệ thống khởi động và đánh lửa
+1797,Bảo dưỡng và sửa chữa trang bị điện ô tô 1
+1798,Bảo dưỡng và sửa chữa hệ thống truyền lực
+1799,Bảo dưỡng và sửa chữa hệ thống di chuyển
+1800,Bảo dưỡng và sửa chữa hệ thống lái
+1801,Bảo dưỡng và sửa chữa hệ thống phanh
+1802,Thực hành mạch điện cơ bản
+1803,Kiểm tra và sửa chữa PAN ô tô
+1804,Thực tập tại cơ sở sản xuất
+1805,Kỹ thuật lái Ô tô
+1806,Công nghệ phục hồi chi tiết trong sữa chữa Ô tô
+1807,Bảo dưỡng hệ thống điều hòa không khí trên Ô tô
+1808,Bảo dưỡng và sửa chữa mô tô - xe máy
+1809,Lắp dựng cần trục tháp
+1810,Bảo dưỡng và vận hành cổng trục
+1811,Dung sai lắp ghép và đo lường kỹ thuật
+1812,Vật liệu cơ khí
+1813,Cơ kỹ thuật
+1814,Sức bền vật liệu
+1815,Kỹ thuật điện ứng dụng trong cơ khí
+1816,Kỹ thuật cơ khí cơ bản
+1817,Vật liệu hàn
+1818,Chế tạo phôi và Gá lắp kết cấu hàn
+1819,Hàn hồ quang tay cơ bản
+1820,Anh văn chuyên ngành Hàn
+1821,Hàn hồ quang tay nâng cao
+1822,Hàn  MIG/MAG cơ bản
+1823,Hàn hồ quang dây lõi thuốc (FCAW)
+1824,Hàn TIG cơ bản
+1825,Quy trình hàn
+1826,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1827,Mạch điện
+1828,Vẽ kỹ thuật
+1829,An toàn điện
+1830,Vẽ điện
+1831,Vật liệu điện
+1832,Khí cụ điện
+1833,Điện tử cơ bản
+1834,Thiết bị điện gia dụng
+1835,Kỹ thuật nguội
+1836,Đo lường điện
+1837,Máy điện
+1838,Cung cấp điện
+1839,Điện tử công suât
+1840,Trang bị điện
+1841,"Lắp đặt hệ thống chông sét, tiếp địa"
+1842,Sửa chữa và vận hành máy điện
+1843,Quản lý chất lượng ISO
+1844,Đọc bản vẽ theo tiêu chuẩn quốc tế
+1845,Điều khiển khí nén
+1846,Kỹ thuật lắp đặt điện trong công nghiệp
+1847,Nâng chuyển thiết bị
+1848,Anh văn chuyên ngành
+1849,PLC cơ bản
+1850,Tổ chức sản xuất
+1851,Thực tập tốt nghiệp
+1852,Vật liệu điện
+1853,Lý thuyết mạch điện
+1854,Khí cụ điện
+1855,Vẽ kỹ thuật điện
+1856,Vẽ kỹ thuật điện
+1857,Kỹ thuật đo lường điện
+1858,Kỹ thuật cơ khí cơ bản
+1859,Điện tử công suất 1
+1860,Cung cấp điện
+1861,Máy điện
+1862,Kỹ thuật truyền động điện
+1863,Kỹ thuật lắp điện cơ bản
+1864,Lắp đặt hệ thống thiết bị tiếp địa và chống sét
+1865,"Kỹ thuật lắp đặt thiết bị, đấu nối và vận hành mạch điện điều khiển ứng dụng trong công nghiệp 1"
+1866,Kỹ thuật điều khiển điện khí nén 1
+1867,Kỹ thuật lập trình điều khiển PLC cơ bản
+1868,Anh văn chuyên ngành điện
+1869,Phân tích bản vẽ điện theo tiêu chuẩn quốc tế 1
+1870,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1871,Kỹ thuật truyền động điện
+1872,Kỹ thuật lắp đặt điện cơ bản
+1873,Vẽ kỹ thuật  
+1874,Vật liệu điện 
+1875,Lý thuyết mạch
+1876,Kỹ thuật an toàn và Bảo hộ lao động
+1877,Điện tử công nghiệp
+1878,Nâng chuyển thiết bị
+1879,Nguội cơ bản
+1880,Cung cấp điện
+1881,Máy Điện
+1882,Quản lý chất lượng ISO
+1883,Lắp đặt hệ thống chiếu sáng  
+1884,Lắp đặt đường dây truyền tải
+1885,Lắp đặt thiết bị phân phối  
+1886,Đo lường thí nghiệm điện 
+1887,Sửa chữa và bảo dưỡng máy điện
+1888,Lắp đặt hệ thống thiết bị điều khiển công nghiệp 
+1889,Anh Văn chuyên ngành
+1890,Lắp đặt hệ thống thiết bị điều khiển tự động PLC
+1891,Đọc bản vẽ theo tiêu chuẩn quốc tế
+1892,"Lắp đặt hệ thống chống sét, tiếp địa "
+1893,Thực tập sản xuất.
+1894,Vật liệu điện
+1895,Lý thuyết mạch điện
+1896,Khí cụ điện
+1897,Vẽ kỹ thuật điện
+1898,Kỹ thuật đo lường điện
+1899,KỸ thuật cơ khí cơ bản (hand operation tools)
+1900,Điện tử cơ bản
+1901,Cung cấp điện
+1902,Máy điện
+1903,Kỹ thuật lắp đặt điện cơ bản
+1904,Lắp đặt hệ thống thiết bị tiếp địa và chống sét 1
+1905,Kỹ thuật điều khiển điện khí nén 1
+1906,Kỹ thuật lập trình điều khiển PLC cơ bản
+1907,Anh văn chuyên ngành điện
+1908,Phân tích bản vẽ theo tiêu chuẩn quốc tế 1
+1909,Lắp đặt hệ thống thiết bị điều khiển điện trong công nghiệp 1
+1910,Kỹ thuật đấu nối và vận hành mạch điện điều khiển ứng dụng trong công nghiệp 1
+1911,Lắp đặt thiết bị hệ thống phân phối
+1912,"Nguyên lý và kỹ thuật lắp đặt đường dây truyền tải trung áp, hạ áp"
+1913,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1914,Vật liệu điện
+1915,Linh kiện điện tử và các mạch điện tử cơ bản
+1916,Lý thuyết mạch điện
+1917,Khí cụ điện
+1918,Vẽ kỹ thuật điện
+1919,Kỹ thuật đo lường điện
+1920,Kỹ thuật cơ khí cơ bản
+1921,Điện tử công suất 1
+1922,Máy điện
+1923,Kỹ thuật lắp đặt điện cơ bản
+1924,Kỹ thuật lắp đặt điện tử cơ bản
+1925,Kỹ thuật điều khiển điện khí nén 1
+1926,Kỹ thuật lập trình điều khiển PLC cơ bản
+1927,Anh văn chuyên ngành điện
+1928,Phân tích bản vẽ điện điện tử theo tiêu chẩn quốc tế 1
+1929,Kỹ thuật ứng dụng vi điều khiển trong công nghiệp
+1930,"Thiết kế, chế tạo bo mạch điện tử ứng dụng công nghiệp 1"
+1931,Lập trình ứng dụng vi điều khiển 1
+1932,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1933,Nguồn điện xoay chiều nhiều pha
+1934,An toàn điện và các biện pháp bảo vệ 1
+1935,Đo lường và phân tích chức năng hệ thống
+1936,Điện tử công suất 1
+1937,Cơ sở tự động hóa
+1938,Lắp đặt và kiểm tra hệ thống điện
+1939,Kỹ thuật thông tin
+1940,Bảo trì và sửa chữa hệ thống tự động hóa công nghiệp
+1941,Máy điện
+1942,Kỹ thuật lắp đặt và điều khiển hệ thống tự động hóa
+1943,Toán kỹ thuật
+1944,Linh kiện điện tử và khí cụ điện
+1945,Vẽ kỹ thuật
+1946,Dung sai và lắp ghép 
+1947,Cơ kỹ thuật
+1948,Vật liệu cơ khí
+1949,Kỹ thuật an toàn và Bảo hộ lao động
+1950,Cắt khí cơ bản
+1951,Hàn điện cơ bản
+1952,Nâng chuyển thiết bị
+1953,Thực hành nguội
+1954,Phân tích bản vẽ chế tạo cơ khí
+1955,Sử dụng dụng cụ thiết bị nghề CTTBCK
+1956,"Đo, kiểm tra kích thước thiết bị cơ khí"
+1957,Thực hành điện cơ bản
+1958,Hệ thống quản lý chất lượng ISO
+1959,"Chế tạo bồn, bể"
+1960,Tiếng Anh chuyên ngành
+1961,Chế tạo băng tải
+1962,Chế tạo hệ thống thông gió
+1963,Thực tập sản xuất
+1964,"Chế tạo lan can, cầu thang"
+1965,Chế tạo khung nhà công nghiệp
+1966,Chế tạo dầm tổ hợp
+1967,Dung sai lắp ghép và đo lường kỹ thuật
+1968,Vật liệu cơ khí
+1969,Cơ kỹ thuật
+1970,Kỹ thuật điện ứng dụng trong cơ khí
+1971,Kỹ thuật cắt khí Gas-Oxy cơ bản
+1972,Kỹ thuật cơ khí cơ bản (hand operation tools)
+1973,Hàn hồ quang tay cơ bản
+1974,Nâng chuyển thiết bị
+1975,Anh văn chuyên ngành Cơ khí
+1976,Kỹ thuật đo lường sản phẩm cơ khí
+1977,"Tiện, phay, mài cơ bản"
+1978,Phân tích bản vẽ cơ khí theo tiêu chuẩn quốc tế
+1979,Công nghệ gia công trên các máy chuyên dùng
+1980,Chế tạo kết cấu thép
+1981,Chế tạo bồn công nghiệp
+1982,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+1983,Vẽ kỹ thuật
+1984,Dung sai và lắp ghép 
+1985,Cơ kỹ thuật
+1986,Vật liệu cơ khí
+1987,Kỹ thuật an toàn và Bảo hộ lao động
+1988,Thực hành nguội
+1989,Thực hành điện cơ bản
+1990,Bảo dưỡng kỹ thuật máy và thiết bị nâng đơn giản
+1991,Hàn điện cơ bản và cắt khí
+1992,Đo kiểm kích thước và vị trí 
+1993,Lắp đặt băng tải
+1994,Lắp đặt cầu trục
+1995,Phân tích hệ thống bản vẽ cơ khí
+1996,Lắp đặt tuabin 
+1997,Tiếng Anh chuyên ngành
+1998,Hệ Thống Quản lí chất lượng ISO
+1999,Lắp đặt máy phát điện
+2000,Lắp đặt máy gia công kim loại
+2001,Thực tập sản xuất
+2002,Các quy trình lắp đặt thiết bị cơ khí
+2003,Lắp đặt nhà thép tiền chế
+2004,Lắp đặt máy bơm
+2005,Dung sai lắp ghép và đo lường kỹ thuật
+2006,Vật liệu cơ khí
+2007,Cơ kỹ thuật
+2008,Kỹ thuật điện ứng dụng trong cơ khí
+2009,Kỹ thuật cắt khí Gas-Oxy cơ bản
+2010,Kỹ thuật cơ khí cơ bản (hand operation tools)
+2011,Hàn hồ quang tay cơ bản
+2012,Nâng chuyển thiết bị
+2013,Anh văn chuyên ngành Cơ khí
+2014,Kỹ thuật đo lường sản phẩm cơ khí
+2015,"Tiện, phay, mài cơ bản"
+2016,Phân tích bản vẽ cơ khí theo tiêu chuẩn quốc tế
+2017,Sử dụng và bảo dưỡng thiết bị nghề LĐTBCK
+2018,Lắp đặt hệ thống bồn công nghiệp
+2019,Lắp đặt hệ thống nhà thép tiền chế
+2020,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+2021,"Cắt, nắn thẳng và ghép nối bằng nhiệt"
+2022,Vẽ kỹ thuật với sự hỗ trợ của máy tính (CAD)
+2023,Vẽ kỹ thuật
+2024,Dung sai và lắp ghép 
+2025,Cơ kỹ thuật
+2026,Vật liệu cơ khí
+2027,Kỹ thuật an toàn và Bảo hộ lao động
+2028,Thực hành nguội
+2029,Thực hành hàn và cắt khí 
+2030,Thực hành điện cơ bản
+2031, Nâng chuyển  thiết bị
+2032,Khai triển Ống công nghệ   
+2033,Đo Ống công nghệ
+2034,Phân tích hệ thống bản vẽ ống 
+2035,Chọn lựa vật tư và phụ kiện 
+2036,Chế tạo giá đỡ ống 
+2037,Chế tạo phụ kiện ống 
+2038,Tiếng Anh chuyên ngành
+2039,Lắp đặt giá đỡ 
+2040,Chế tạo cụm ống 
+2041,Lắp đặt ống và phụ kiện trên giá đỡ (A/G) 
+2042,Thực tập  sản xuất
+2043,Hệ thống quản lý chất lượng ISO 
+2044,Lắp đặt ống và phụ kiện chìm (U/G)
+2045,Lắp đặt máy bơm
+2046,Dung sai lắp ghép và đo lường kỹ thuật
+2047,Vật liệu cơ khí
+2048,Cơ kỹ thuật
+2049,Kỹ thuật điện ứng dụng trong cơ khí
+2050,Kỹ thuật cắt khí Gas-Oxy cơ bản
+2051,Kỹ thuật cơ khí cơ bản (hand operation tools)
+2052,Hàn hồ quang tay cơ bản
+2053,Nâng chuyển thiết bị
+2054,Anh văn chuyên ngành Cơ khí
+2055,Kỹ thuật đo lường sản phẩm cơ khí
+2056,"Tiện, phay, mài cơ bản"
+2057,Phân tích bản vẽ cơ khí theo tiêu chuẩn quốc tế
+2058,Sử dụng và bảo dưỡng thiết bị nghề Bảo Trì Hệ Thống Thiết Bị Cơ Khí
+2059,Bảo trì hệ thống bồn công nghiệp
+2060,Bảo trì máy gia công kim loại
+2061,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+2062,Vật liệu kỹ thuật điện
+2063,Kỹ thuật điện 1
+2064,Khí cụ điện
+2065,Vẽ kỹ thuật điện
+2066,Kỹ thuật đo lường điện 1
+2067,An toàn điện
+2068,Kỹ thuật cơ khí cơ bản
+2069,Điện tử cơ bản
+2070,Cung cấp điện
+2071,Máy điện
+2072,Kỹ thuật truyền động điện
+2073,Kỹ thuật lắp đặt điện cơ bản
+2074,Lắp dặt hệ thống thiết bị tiếp địa và chống sét 1
+2075,Kỹ thuật điều khiển tự động hóa 1
+2076,Phân tích bản vẽ điện điện tử theo tiêu chuẩn quốc tế
+2077,"Kỹ thuật đầu nối, kiểm tra và vận hành mạch điện điều khiển ứng dụng trong công nghiệp 1"
+2078,Anh văn chuyên ngành điện
+2079,Lắp đặt truyền tải  và phân phối điện năng
+2080,Bảo trì thiết bị điện dân dụng
+2081,Bảo trì thiết bị điện công nghiệp
+2082,Bảo trì máy điện
+2083,Theo dõi quá trình hoạt động của thiết bị
+2084,Thực tập tốt nghiệp/Bài tập dự án
+2085,Tiếng anh kỹ thuật
+2086,Cơ sở kỹ thuật điện/điện tử và các biện pháp bảo vệ an toàn
+2087,"An toàn lao động, sức khỏe và bảo vệ môi trường"
+2088,Khoa học vật liệu
+2089,Giao tiếp kỹ thuật
+2090,Kỹ thuật sản suất
+2091,Phân tích chức năng trong các hệ thống cơ điện tử
+2092,Kỹ thuật số
+2093,Điện tử công suất
+2094,Chiến lược bảo trì và bảo dưỡng hệ thống cơ điện tử
+2095,Cơ bản về quản lý chất lượng
+2096,Gia công cơ khí và vật liệu nhựa cơ bản
+2097,Gia công bằng máy công cụ vạn năng
+2098,Làm việc với các máy gia công CNC
+2099,Lắp đặt và đấu nối các mạch điện ứng dụng
+2100,"Lắp đặt các phần tử và thiết bị điện, điện tử"
+2101,Lắp đặt và kiểm tra hệ thống điều khiển khí nén và điện khí nén
+2102,Lắp đặt và kiểm tra hệ thống điều khiển thủy lực và điện thủy lực
+2103,Lập trình điều khiển hệ thống cơ điện tử sử dụng PLC
+2104,Lập trình điều khiển hệ thống cơ điện tử sử dụng vi điều khiển
+2105,"Lắp ráp, đấu nối và vận hành hệ thống cơ điện tử"
+2106,Tháo và lắp các cụm chi tiết cơ khí
+2107,Thực tập tốt nghiệp
+2108,Luật kinh tế
+2109,Lý thuyết tài chính tiền tệ
+2110,Lý thuyết kế toán
+2111,Thị trường chứng khoán
+2112,Lý thuyết thống kê
+2113,Kinh tế vi mô
+2114,Tài chính doanh nghiệp
+2115,Anh văn chuyên ngành
+2116,Kế toán doanh nghiệp 1
+2117,Thực hành kế toán trong doanh nghiệp thương mại 1
+2118,Phân tích hoạt động kinh doanh
+2119,Kế toán quản trị
+2120,Kế toán hành chính sự nghiệp
+2121,Kiểm toán
+2122,Tin học kế toán 1
+2123,Thuế và quyết toán thuế 1
+2124,Thực tập nghề nghiệp
+2125,Thực tập tốt nghiệp
+2126,Thực hành kế toán trong doanh nghiệp sản xuất 1
+2127,Nguyên lý kế toán
+2128,Quản trị học
+2129,Tài chính doanh nghiệp
+2130,Kế toán doanh nghiệp
+2131,Phân tích hoạt động kinh doanh
+2132,Quản trị thương hiệu
+2133,Quản trị sản xuất kinh doanh
+2134,Thương mại điện tử
+2135,Quản trị tiêu thụ bán hàng
+2136,Khởi nghiệp doanh nghiệp
+2137,Khởi sự doanh nghiệp
+2138,Thực hành nghề nghiệp
+2139,Thực tập tốt nghiệp
+2140,Anh văn chuyên ngành
+2141,An toàn vệ sinh công nghiệp
+2142,Tin học văn phòng
+2143,Internet
+2144,Lập trình căn bản
+2145,Kiến trúc máy tính
+2146,Kỹ thuật đo lường
+2147,Kỹ thuật điện tử
+2148,Kỹ thuật xung số
+2149,Lắp ráp và cài đặt máy tính
+2150,Xử lý sự cố phần mềm
+2151,Mạng máy tính
+2152,Sửa chữa máy tính cơ bản
+2153,Sửa chữa máy in và thiêt bị ngoại vi
+2154,Sửa chữa máy tính nâng cao
+2155,Quản trị mạng 1
+2156,Hệ quản trị cơ sở dữ liệu
+2157,Thực tập tốt nghiệp
+2158,Thiết kế mạng LAN
+2159,Vẽ kỹ thuật
+2160, Vật liệu cơ khí
+2161,Cơ kỹ thuật
+2162,Dung sai
+2163, Kỹ thuật an toàn
+2164,Quản lý chất lượng ISO
+2165,"Khái niệm, nguyên lý hệ thống truyền lực máy cơ sở . Công dụng,  phân loại máy nâng, "
+2166,"Các cơ cấu công tác,  của máy trục"
+2167,Thiết bị an toàn và hệ thống điểu khiển máy trục
+2168,Kỹ thuật an toàn và bảo hộ lao động
+2169,"Bảo dưỡng  cầu trục , cổng trục"
+2170,"Bảo dưỡng cần trục ( cần trục bánh lốp, bánh xích)"
+2171,Gia công nguội cơ bản
+2172,Kỹ thuật treo buộc hàng
+2173,"Vận hành cầu trục. Không có tải , có tải"
+2174,Ca bin cần trục. Vị trí  ổn định cần trục
+2175,Vận hành cần trục
+2176,Cẩu hàng đặt vào vị trí + khử rung lắc cho cần trục
+2177,Cầu hàng có kích thước lớn
+2178,Kỹ thuật cẩu lật tải
+2179,"Giải phóng phương tiện vận tải, kỹ thuật chất tải"
+2180,"Cẩu lắp dựng cột, cẩu ống "
+2181,Cẩu lắp trên cao khuất ( thực hiện xi nhan bậc )
+2182,Tháo lắp. Dựng cần cho cần trục
+2183,Phương pháp luồn cáp cho máy trục
+2184,Thử tải cho máy trục
+2185,Thực tập sản xuất
+2186,Truyền động thủy lực trên máy trục
+2187, Truyền động điện và tự động hóa trên máy trục
+2188,Dung sai lắp ghép và đo lường kỹ thuật
+2189,Vật liệu cơ khí
+2190,Cơ kỹ thuật
+2191,Sức bền vật liệu
+2192,Kỹ thuật điện cơ bản
+2193,Sử dụng dụng cụ cầm tay (Hand tool)
+2194,Bảo dưỡng động cơ đốt trong
+2195,Hệ thống điện điều khiển máy trục
+2196,Hệ thống thủy lực - Khí nén
+2197,Hệ thống gầm và thiết bị công tác cần trục
+2198,"Thiết bị trên cầu trục, cổng trục"
+2199,Kỹ thuật thi công
+2200,Vận hành cần trục
+2201,Vận hành cầu trục
+2202,Thực hành sản xuất
+2203,Điện kỹ thuật
+2204,Điện tử cơ bản
+2205,Cơ kỹ thuật
+2206,Vật liệu học
+2207,Dung sai lắp ghép và đo lường kỹ thuật
+2208,Vẽ kỹ thuật
+2209,An toàn lao động
+2210,Thực hành Nguội cơ bản
+2211,Thực hành Hàn cơ bản
+2212,Kỹ thuật chung về ô tô và công nghệ sửa chữa
+2213,Bảo dưỡng và sửa chữa cơ cấu trục khuỷu - thanh truyền và bộ phận cố định của động cơ 1
+2214,Bảo dưỡng và sửa chữa hệ thống phân phối khí
+2215,Bảo dưỡng và sửa chữa hệ thống bôi trơn và hệ thống làm mát
+2216,Bảo dưỡng và sửa chữa hệ thống nhiên liệu động cơ xăng dùng bộ chế hòa khí
+2217,Bảo dưỡng và sửa chữa hệ thống nhiên liệu động cơ diesel
+2218,Sửa chữa - bảo dưỡng hệ thống khởi động và đánh lửa
+2219,Bảo dưỡng và sửa chữa trang bị điện ô tô 1
+2220,Bảo dưỡng và sửa chữa hệ thống truyền lực
+2221,Bảo dưỡng và sửa chữa hệ thống di chuyển
+2222,Bảo dưỡng và sửa chữa hệ thống lái
+2223,Bảo dưỡng và sửa chữa hệ thống phanh
+2224,Thực hành mạch điện cơ bản
+2225,Kiểm tra và sửa chữa PAN ô tô
+2226,Dung sai lắp ghép và do lường kỹ thuật
+2227,Vật liệu cơ khí
+2228,Cơ kỹ thuật
+2229,Sức bền vật liệu
+2230,Kỹ thuật điện cơ bản
+2231,KỸ thuật hàn cơ bản
+2232,Sử dụng dụng cụ cầm tay (hand tool)
+2233,Kỹ thuật chung về ô tô và công nghệ sửa chữa
+2234,Bảo dưỡng và sửa chữa cơ cấu trục khuỷu - thanh truyền và bộ phận cố định của động cơ
+2235,Bảo dưỡng và sửa chữa hệ thống phân phối khí
+2236,Bảo dưỡng và sửa chữa hệ thống bôi trơn và hệ thống làm mát
+2237,Bảo dưỡng và sửa chữa hệ thống nhiên liệu động cơ xăng dùng bộ chế hòa khí
+2238,Bảo dưỡng và sửa chữa động cơ diesel
+2239,Sửa chữa và bảo dưỡng hệ thống khởi động và đánh lửa
+2240,Bảo dưỡng và sửa chữa trang bị điện ô tô
+2241,Bảo dưỡng và sửa chữa hệ thống truyền lực
+2242,Bảo dưỡng và sửa chữa hệ thống di chuyển
+2243,Bảo dưỡng và sửa chữa hệ thống lái
+2244,Bảo dưỡng và sửa chữa hệ thống phanh
+2245,Kiểm tra và sửa chữa PAN ô tô
+2246,Kỹ thuật lái ô tô
+2247,Thực tập tại cơ sở sản xuất 1
+2248,Hàn hồ quang tay cơ bản
+2249,Dung sai lắp ghép và đo lường kỹ thuật
+2250,Vật liệu cơ khí
+2251,Cơ kỹ thuật
+2252,Kỹ thuật điện ứng dụng trong cơ khí
+2253,Kỹ thuật cắt khí Gas-Oxy cơ bản
+2254,Kỹ thuật cơ khí cơ bản (hand operation tools)
+2255,Hàn hồ quang tay cơ bản
+2256,Nâng chuyển thiết bị
+2257,Anh văn chuyên ngành Cơ khí
+2258,Kỹ thuật đo lường sản phẩm cơ khí
+2259,"Tiện, phay, mài cơ bản"
+2260,Phân tích bản vẽ cơ khí theo tiêu chuẩn quốc tế
+2261,"Tiện, phay, mài nâng cao"
+2262,Tiện CNC cơ bản
+2263,Phay CNC cơ bản
+2264,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+2265,"Chọn lựa ống, phụ kiện và thiết bị"
+2266,"Sử dụng dụng cụ - thiết bị gia công, lắp đặt ống công nghệ"
+2267,Gia công kết cấu giữ ống
+2268,Gia công chi tiết và phụ kiện ống
+2269,Gia công cụm ống
+2270,Lắp đặt hệ thống ống công nghệ
+2271,Bảo trì và sửa chữa đường ống
+2272,Thủy khí cơ sở
+2273,"Lắp đặt ống cấp, thoát nước"
+2274,Lắp đặt thiết bị dùng nước
+2275,Lắp đặt ống qua sông - đầm lầy
+2276,TTTN
+2277,Toán cao cấp
+2278,Vật lý đại cương
+2279,Hình học hoạ hình 
+2280,Cơ lý thuyết
+2281,Sức bền vật liệu
+2282,Vật liệu cơ khí
+2283,Công nghệ gia công kim loại
+2284,Quản lý doanh nghiệp và tổ chức sản xuất
+2285,Sử dụng dụng cụ thiết bị nghề CTTBCK
+2286,Chế tạo băng tải
+2287,Chế tạo hệ thống thông gió
+2288,Chế tạo khung nhà công nghiệp
+2289,Chế tạo cột điện cao thế # 35 kv
+2290,Chế tạo bồn bể
+2291,Tiếng Anh chuyên ngành
+2292,Chế tạo khung bằng thép hình 
+2293,Phân tích bản vẽ chế tạo cơ khí
+2294,CAD/CAM - CNC căn bản
+2295,Chế tạo chi tiết trên máy CNC
+2296,Chính trị
+2297,Pháp luật
+2298,Giáo dục thế chất
+2299,GD quốc phòng
+2300,Tin học
+2301,Ngoại ngữ
+2302,Mạch điện
+2303,Điện tử cơ bản
+2304,Đo lường điện
+2305,Máy điện 2
+2306,Cung cấp điện
+2307,TH trang bị điện
+2308,Kỹ thuật xung- số
+2309,KT cảm biến
+2310,PLC cơ bản
+2311,Truyền động điện
+2312,Điện tử công suất
+2313,PLC nâng cao
+2314,TTTN
+2315,KT lắp đặt điện trong công nghiệp
+2316,"LĐ hệ thống chống sét, tiếp địa"
+2317,Kỹ thuật lạnh
+2318,Thiết bị điện gia dụng
+2319,Anh Văn chuyên ngành
+2320,Hình học hoạ hình
+2321,Vật liệu cơ khí
+2322,Sức bền vật liệu
+2323,Công nghệ gia công kim loại
+2324,QLDN & TCSX
+2325,Sử dụng DC và TB nghề CTTBCK
+2326,"Đo, kiểm tra kích thước TBCK"
+2327,Chế tạo băng tải
+2328,Chế tạo lan can cầu thang
+2329,Chế tạo dầm tổ hợp
+2330,Chế tạo hệ thống thông gió
+2331,Chế tạo khung nhà công nghiệp
+2332,Phân trích hệ thống bản vẽ cơ khí
+2333,CAD/ CAM- CNC căn bản
+2334,Chế tạo chi tiết trên máy CNC
+2335,Chế tạo cột điện cao thế # 35KV
+2336,Chế tạo bồn bể
+2337,Chế tạo khung bằng thép hình
+2338,TTSX
+2339,Chính trị
+2340,Anh văn giao tiếp
+2341,Toán kinh tế
+2342,Anh văn chuyên ngành
+2343,Kinh tế vĩ mô
+2344,Tài chính doanh nghiệp
+2345,Kế toán doanh nghiệp
+2346,Lập và phân tich dự án
+2347,Kiểm toán
+2348,Thực hành kế toán
+2349,TTTN
+2350,Kế toán ngân hàng
+2351,Kế toán trong doanh nghiệp xây lắp
+2352,Marketing
+2353,Tâm lý học quản lý
+2354,kế toán chi phí
+2355,Pháp luật
+2356,Anh văn giao tiếp 2
+2357,Kỹ thuật an toàn
+2358,Nguyên lý kỹ thuật
+2359,Nguyên lý hàn
+2360,Hàn hồ quang tay
+2361,Hàn TIG
+2362,Hàn hồ quang dây lõi thuốc
+2363,Toán kỹ thuật
+2364,Nguyên lý điên cho kỹ thuật cơ khí
+2365,Nguyên lý máy 
+2366,Cơ lưu chất và nhiệt động học kỹ thuật
+2367,AUTOCAD cho sản xuất 
+2368,Thiết kế kỹ thuật
+2369,Kỹ thuật lập kế hoạch và tiến độ
+2370,Bảo trì hệ thống kỹ thuật và thiết bị  
+2371,Công nghệ chế tạo kim loại
+2372,Công nghệ và thực hành hàn
+2373,Đảm bảo chất lượng và kiểm tra mối ghép hàn
+2374,Toán kỹ thuật nâng cao
+2375,Phân tích cơ lưu chất
+2376,Nhiệt động lực học ứng dụng
+2377,Cơ học chất rắn
+2378,Ứng dụng đặc tính của vật liệu cho kỹ thuật
+2379,Động lực học hệ thống máy
+2380,Dự án kỹ thuật
+2381,Mô hình thiết kế kỹ thuật
+2382,Toán học kỹ thuật 
+2383,Quản lý cho các kỹ sư
+2384,Bài tập đồ án 1
+2385,Nhiệt động lực học ứng dụng
+2386,Cơ lưu chất 
+2387,Cơ học máy và sức bền vật liệu
+2388,Vật liệu
+2389,Công nghệ sản xuất
+2390,Thủy lực và máy thủy lực
+2391,Cơ học chất rắn
+2392,Hệ thống điều khiển
+2393,Vật liệu Hàn
+2394,Hàn hồ quang tay SMAW nâng cao
+2395,Thực tập tốt nghiệp/Đồ án tốt nghiệp
+2396,Kỹ thuật an toàn
+2397,Nguyên lý kỹ thuật
+2398,Nguyên lý kỹ thuật điện điện tử 1
+2399,Bảo trì hệ thống điện và thiết bị điện
+2400,Tổ chức và quản lý kỹ thuật vận hành 
+2401,Nguyên lý hệ thống rô bốt và điều khiển tự động
+2402,Toán kỹ thuật 1
+2403,Nguyên lý kỹ thuật điện điện tử 2
+2404,Thiết kế bằng máy tính để chế tạo
+2405,Kỹ thuật lập kế hoạch và tiến độ
+2406,Dịch vụ và lắp đặt điện
+2407,Sử dụng các phương pháp bảo vệ để vận hành thiết bị điện
+2408,Kiểm tra và đo lường hệ thống điện điện tử
+2409,Điều khiển lập trình PLC
+2410,Nguyên lý các mạch Analoge
+2411,Mạch tuần tự và logic tích hợp
+2412,Hệ thống vi xử lý cơ bản
+2413,Toán nâng cao cho kỹ thuật điện điện tử
+2414,Nguyên lý kỹ thuật điện điện tử
+2415,Dự án kỹ thuật
+2416,Quản lý dự án
+2417,Thiết bị và hệ thống điều khiển
+2418,Quản trị doanh nghiệp
+2419,Thiết kế kỹ thuật số
+2420,Thiết kế analoge
+2421,Toán kỹ thuật 2
+2422,Kỹ năng quản lý
+2423,Xử lý tín hiệu trong cacq mạch điện tử
+2424,Nguyên lý hệ thống điện và máy điện
+2425,Hệ thống điện tử
+2426,Hệ thống thông tin
+2427,Mạng truyền thông không dây và di động
+2428,Mạng máy tính
+2429,Tín hiệu và hệ thống
+2430,Cấu trúc máy tính và hệ điều hành
+2431,Đồ án tốt nghiệp
+2432,Kỹ thuật  an toàn
+2433,Nguyên lý kỹ thuật
+2434,Nguyên lý chế tạo
+2435,Khai triển chi tiết cơ khí
+2436,Tổ chức và quản lý hoạt động kỹ thuật
+2437,Khoa học và toán nâng cao
+2438,Toán kỹ thuật - 401
+2439,Kỹ thuật điện ứng dụng trong cơ khí
+2440,Nguyên lý chi tiết máy
+2441,Cơ lưu chất và nhiệt động học kỹ thuật
+2442,Thiết kế chi tiết cho sản xuất
+2443,Thiết kế kỹ thuật
+2444,Kỹ thuật lập kế hoạch và tiến độ
+2445,Bảo trì hệ thống kỹ thuật và thiết bị
+2446,Công nghệ gia công kim loại
+2447,Công nghệ hàn và thực nghiệm
+2448,Quản lý và kiểm tra chất lượng mối hàn
+2449,Toán kỹ thuật nâng cao
+2450,Cơ lưu chất - 514
+2451,Nhiệt động học ứng dụng
+2452,Cơ học vật rắn-516
+2453,Vật liệu ứng dụng
+2454,Động lực học hệ thống máy
+2455,Dự án kỹ thuật
+2456,Mô hình hóa thiết kế kỹ thuật
+2457,Toán kỹ thuật
+2458,Quản lý cho nhà kỹ thuật
+2459,Đồ án 1
+2460,Nhiệt động học ứng dụng
+2461,Cơ lưu chất
+2462,Cơ học máy và sức bền vật liệu
+2463,Vật liệu
+2464,Công nghệ sản xuất
+2465,Thủy lực và máy thủy lực
+2466,Cơ học vật rắn - 135
+2467,Hệ thống điều khiển
+2468,Cơ sở công nghệ chế tạo máy
+2469,Chính trị
+2470,Pháp luật
+2471,Giáo dục thể chất
+2472,Giáo dục quốc phòng
+2473,Tin học
+2474,Ngoại ngữ
+2475,THỰC HÀNH KỶ THUẬT CƠ SỞ TOÁN 2
+2476,Quản trị chất lượng
+2477,Thực hành kỹ thuật cơ sở 1- Tin học
+2478,Công Nghệ Cơ Khí
+2479,Thiết kế chi tiết trên máy tính 1(autocard)
+2480,Nguyên lý quy trình chế tạo
+2481,Nguyên lý kỹ thuật
+2482,Bảo trì hệ thống điện và thiết bị điện
+2483,Tổ chức và quản lý kỹ thuật vận hành
+2484,Nguyên lý hệ thống rô bốt và điều khiển tự động
+2485,Nguyên lý kỹ thuật điện điện tử 1
+2486,Kỹ thuật an toàn
+2487,Nguyên lý kỹ thuật
+2488,Khai triển dưỡng chế tạo
+2489,Tổ chức và quản lý hoạt động kỹ thuật
+2490,Toán và khoa học nâng cao
+2491,Nguyên lý chế tạo
+2492, Nâng chuyển  thiết bị
+2493,An toàn điện
+2494,An toàn lao động
+2495,Anh văn
+2496,Anh văn chuyên ngành
+2497,Bảo dưỡng kỹ thuật máy và thiết bị nâng đơn giản
+2498,Bảo ôn đường ống
+2499,Các quy trình lắp đặt thiết bị cơ khí
+2500,CAD/CAM-CNC cơ bản
+2501,Cắt khí cơ bản
+2502,Chế tạo băng tải
+2503,"Chế tạo bồn, bể"
+2504,Chế tạo chi tiết trên máy CNC
+2505,Chế tạo cột điện cao thế # 35 kv
+2506,Chế tạo cột điện cao thế 35Kv
+2507,Chế tạo cụm ống 
+2508,Chế tạo dầm tổ hợp
+2509,Chế tạo giá đỡ ống 
+2510,Chế tạo hệ thống thông gió
+2511,Chế tạo khung bằng thép hình 
+2512,Chế tạo khung nhà công nghiệp
+2513,Chế tạo lan can cầu thang
+2514,Chế tạo phôi hàn
+2515,Chế tạo phụ kiện ống
+2516,Chế tạo phụ kiện ống 
+2517,Chi tiết máy
+2518,Chọn lựa vật tư và phụ kiện 
+2519,Cơ kỹ thuật
+2520,Cơ lý thuyết
+2521,Công nghệ gia công kim loại
+2522,Cung cấp điện
+2523,Điện tử cơ bản
+2524,Điện tử công nghiệp
+2525,Điều khiển điện khí nén
+2526,Đo kiểm kích thước và vị trí 
+2527,Đo kiểm tra kích thước thiết bị cơ khí
+2528,Đo lường thí nghiệm điện
+2529,Đo Ống công nghệ
+2530,"Đo, kiểm tra kích thước thiết bị cơ khí"
+2531,Đọc bản vẽ tiêu chuẩn quốc tế
+2532,Dung sai và lắp ghép 
+2533,Ghá lắp kết cấu hàn
+2534,Hàn bình chịu áp lực
+2535,Hàn điện cơ bản
+2536,Hàn điện cơ bản và cắt khí
+2537,Hàn điện nâng cao
+2538,Hàn kim loại và hợp kim màu
+2539,Hàn MIG\MAG cơ bản
+2540,Hàn MIG\MAG nâng cao
+2541,Hàn MIG\MAG tiêu chuẩn quốc tế
+2542,Hàn ống áp lực cao
+2543,Hàn ống công nghệ cao 5G
+2544,Hàn ống thép hợp kim
+2545,Hàn SMAW ống 1G
+2546,Hàn tiếp xúc
+2547,Hàn TIG cơ bản
+2548,Hàn tự động dưới thuốc
+2549,Hệ thống quản lý chất lượng ISO 
+2550,Hình học hoạ hình 
+2551,Kế toán doanh nghiệp 1
+2552,Kế toán doanh nghiệp 2
+2553,Kế toán mỹ
+2554,Kế toán quản trị
+2555,Khai triển Ống công nghệ         
+2556,Khí cụ điện
+2557,Kiểm toán
+2558,Kiểm tra chất lượng mối hàn
+2559,Kinh tế Chính trị
+2560,Kế toán hành chính sự nghiệp
+2561,Kinh tế học (V.mô)
+2562,Kế toán máy
+2563,Kế toán ngân hàng
+2564,Kế toán quốc tế
+2565,Kế toán xây lắp
+2566,Kỹ thuật an toàn
+2567,Kỹ thuật an toàn và Bảo hộ lao động
+2568,Kỹ thuật điện
+2569,Kỹ thuật lạnh
+2570,Kỹ thuật lắp đặt điện công nghiệp
+2571,Kỹ thuật số
+2572,Lắp đặt băng tải
+2573,Lắp đặt cảm biến công nghiệp
+2574,Lắp đặt cầu trục
+2575,Lắp đặt điện dân dụng
+2576,Lắp đặt điều khiển thiết bị điện CN
+2577,Lắp đặt đường dây truyền tải
+2578,Lắp đặt giá đỡ 
+2579,Lắp đặt hệ thống chiếu sáng
+2580,"Lắp đặt hệ thống chống sét, tiếp địa"
+2581,Lắp đặt hệ thống điều khiển tự động
+2582,Lắp đặt lò hơi
+2583,Lắp đặt máy bơm
+2584,Lắp đặt máy gia công kim loại
+2585,Lắp đặt máy phát điện
+2586,Lắp đặt nhà thép tiền chế
+2587,"Lắp đặt ống qua sông, qua đầm lầy"
+2588,Lắp đặt ống qua sông/đầm lầy 
+2589,Lắp đặt ống thép không gỉ 
+2590,Lắp đặt ống và phụ kiện chìm
+2591,Lắp đặt ống và phụ kiện chìm (U/G)
+2592,Lắp đặt ống và phụ kiện trên bờ
+2593,Lắp đặt ống và phụ kiện trên bờ (Onshore)
+2594,Lắp đặt ống và phụ kiện trên giá đỡ
+2595,Lắp đặt ống và phụ kiện trên giá đỡ (A/G) 
+2596,Lắp đặt thang máy
+2597,Lắp đặt thiết bị phân phối
+2598,Lắp đặt tuabin 
+2599,Lập và phân tích dự án
+2600,Lý thuyết tài chính tín dụng
+2601,Luật kinh tế
+2602,Lý thuyết kế toán
+2603,Lý thuyết mạch
+2604,Lý thuyết Tài chính
+2605,Lý thuyết thống kê
+2606,Marketing CB
+2607,Máy điện
+2608,Máy nâng chuyển 
+2609,Nâng chuyển thiết bị
+2610,Ngoại ngữ
+2611,Phân tích bản vẽ chế tạo cơ khí
+2612,Phân tích hệ thống bản vẽ cơ khí
+2613,Phân tích hệ thống bản vẽ lắp
+2614,Phân tích hệ thống bản vẽ ống 
+2615,PLC cơ bản
+2616,PLC nâng cao
+2617,Phân tích hoạt động kinh doanh
+2618,Quản trị doanh nghiệp
+2619,Quản lý chất lượng ISO
+2620,Quản lý doanh nghiệp
+2621,Quản lý doanh nghiệp và tổ chức sản xuất
+2622,Quản lý sản xuất
+2623,Quy trình hàn
+2624,Robót hàn
+2625,Soạn thảo văn bản
+2626,Sử dụng dụng cụ thiết bị nghề chế tạo thiết bị cơ khí
+2627,Sử dụng dụng cụ thiết bị nghề CTTBCK
+2628,Sửa chữa và bảo dưỡng máy điện
+2629,Sức bền vật liệu
+2630,Tài chính doanh nghiệp
+2631,Tâm lý học quản trị
+2632,Thực hành kế toán doanh nghiệp 1
+2633,Thực Khai báo thuế
+2634,Thực hành kế toán doanh nghiệp 2
+2635,Thi Trường chứng khóa
+2636,Thống kê doanh nghiệp
+2637,Thực hành điện cơ bản
+2638,Thực hành hàn cắt khí
+2639,Thực hành hàn và cắt khí 
+2640,Thực hành nâng chuyển
+2641,Thực hành nguội    
+2642,Thực hành trang bị điện
+2643,Thực tập  sản xuất                                
+2644,Thực tập nghề nghiệp
+2645,Thực tập sản xuất
+2646,Thực tập tốt nghiệp
+2647,Thuế
+2648,Tiếng Anh chuyên ngành
+2649,Tính toán kết cấu hàn
+2650,Tổ chức  quản lý sản xuất
+2651,Toán cao cấp
+2652,Toán kinh tế
+2653,Trang bị điện
+2654,Truyền động điện
+2655,Vật liệu cơ khí
+2656,Vật liệu điện
+2657,Vật lý đại cương
+2658,Vẽ điện
+2659,Vẽ kỹ thuật
+2660,Toán kỹ thuật
+2661,Thiết kế CAD cho sản xuất
+2662,Thiết kế kỹ thuật
+2663,Nguyên lý điện ứng dụng trong kỹ thuật cơ khí
+2664,Nguyên lý cơ học kỹ thuật
+2665,Cơ lưu chất và nhiệt động lực học kỹ thuật
+2666,Qui trình chế tạo chi tiết cơ khí
+2667,Kỹ thuật vật liệu
+2668,Công nghệ gia công kim loại
+2669,Công nghệ hàn và thực hành
+2670,Đảm bảo chất lượng và kiểm tra chất lượng mối hàn
+2671,Toán kỹ thuật 1
+2672,Nguyên lý kỹ thuật điện điện tử 2
+2673,Thiết kế bằng máy tính để chế tạo
+2674,Nguyên lý và vận hành máy điện
+2675,Dịch vụ và lắp đặt điện
+2676,Cấp nguồn và phân phối điện năng
+2677,Kiểm tra và đo lường hệ thống điện điện tử
+2678,Điều khiển lập trình PLC
+2679,Nguyên lý các mạch Analoge
+2680,Mạch tuần tự và logic tích hợp
+2681,Hệ thống vi xử lý cơ bản
+2682,Toán nâng cao cho kỹ thuật điện điện tử
+2683,Nguyên lý kỹ thuật điện điện tử
+2684,Dự án kỹ thuật
+2685,Quản lý dự án
+2686,Thiết bị và hệ thống điều khiển
+2687,Hệ thống thong tin điện tử
+2688,Thiết kế kỹ thuật số
+2689,Thiết kế analoge
+2690,Đồ án kỹ thuật
+2691,Toán kỹ thuật nâng cao
+2692,Phân tích cơ học lưu chất
+2693,Nhiệt động học ứng dụng
+2694,Cơ học vật rắn
+2695,Vật liệu ứng dụng kỹ thuật
+2696,Động lực học hệ thống máy
+2697,Mô hình hóa thiết kế kỹ thuật
+2698,Chính trị
+2699,Lý thuyết chuyên môn
+2700,Thực hành chuyên môn
+2701,Vẽ Kỹ Thuật
+2702,Điện tử công suất
+2703,Hệ thống điện khí nén
+2704,Hệ thống cơ điện tử
+2705,PLC nâng cao
+2706,Lắp đặt và điều khiển điện trong công nghiệp
+2707,Đồ án 2
+2708,Đồ án tốt nghiệp
+2709,Kỹ thuật thiết bị và qui trình bảo trì
+2710,Thực hành kỹ thuật thiết bị và qui trình bảo trì
+2711,Phân tích bản vẽ chế tạo thiết bị cơ khí
+2712,"Chế tạo, kiểm soát qui trình và quản lý chất lượng bồn áp lực"
+2713,"Chế tạo, kiểm soát qui trình và quản lý chất lượng kết cấu thép"
+2714,"Chế tạo, kiểm soát qui trình và quản lý chất lượng hệ thống thông gió"
+2715,Giải quyết vấn đề kỹ thuật
+2716,Đồ án tốt nghiệp
+2717,Chuyên đề tự động hóa
+2718,Chuyên đề lắp đặt điện
+2719,Anh văn giao tiếp 2
+2720,Sức bền vật liệu
+2721,Sữa chữa bộ nguồn
+2722,Sữa chữa màn hình
+2723,Quản trị nguồn nhân lực
+2724,Truyền động điện
+2725,TN-Chinhtri
+2726,Lý Thuyết Nghề
+2727,Thực Hành Nghề
+2728,Anh Văn Giao Tiếp 1
+2729,Thực hành nguội
+2730,Linh kiện điện tử
+2731,Đo lường điện tử
+2732,Vật liệu cơ khí
+2733,Vi điều khiển
+2734,Anh văn giao tiếp 2
+2735,Anh văn giao tiếp 3
+2736,Anh văn chuyên ngành điện tử
+2737,Tiếng anh chuyên ngành cơ khí

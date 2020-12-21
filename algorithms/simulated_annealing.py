@@ -13,7 +13,7 @@ class State:
     def __gt__(self, other) -> bool:
         raise NotImplemented
 
-class Algorithm:
+class SimulatedAnnealingAlgorithm:
     def __init__(self, 
     firstStateFn: Callable[[], State], 
     lossFn: Callable[[State, State], float], 

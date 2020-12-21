@@ -56,28 +56,22 @@ id,course
 55,Nâng chuyển thiết bị
 56,Quản lý dự án
 57,Vẽ Kỹ thuật
-58,"Kỹ thuật an toàn và Bảo hộ lao động
-"
+58,"Kỹ thuật an toàn và Bảo hộ lao động"
 59,Thực hành nguội
 60,Cơ kỹ thuật
-61,"Dung sai kỹ thuật
-"
-62,"Vật liệu cơ khí
-"
+61,"Dung sai kỹ thuật"
+62,"Vật liệu cơ khí"
 63,Kỹ thuật cơ sở 1
-64,"Tiếng anh giao tiếp 1
-"
+64,"Tiếng anh giao tiếp 1"
 65,Tin học
-66,"Sức bền vật liệu
-"
+66,"Sức bền vật liệu"
 67,Cơ học chất rắn
 68,Lịch trình và kế hoạch kỹ thuật
 69,Nguyên lý kỹ thuật chế tạo chi tiết cơ khí
 70,Kỹ thuật phay
 71,Kỹ thuật tiện
 72,Phay CNC nâng cao
-73,"Thực hành Kỹ thuật cơ sở 1
-"
+73,"Thực hành Kỹ thuật cơ sở 1"
 74,Tiện CNC nâng cao
 75,Thiết kế kỹ thuật
 76,Toán kỹ thuật
@@ -104,39 +98,30 @@ id,course
 97,Thực hành bản vẽ kỹ thuật
 98,Tiếng anh giao tiếp 2
 99,Thực hành kỹ thuật chế tạo
-100,"Nguyên lý và qui trình chế tạo
-"
+100,"Nguyên lý và qui trình chế tạo"
 101,Kỹ thuật cơ sở 2
 102,Thực hành thiết kế chi tiết trên máy tính 1
 103,Tiếng anh giao tiếp 3
 104,Pháp luật
-105,"Hệ thống quản lý chất lượng  (ISO)
-"
-106,"Phân  tích  bản vẽ chế tạo thiết bị cơ khí
-"
+105,"Hệ thống quản lý chất lượng  (ISO)"
+106,"Phân  tích  bản vẽ chế tạo thiết bị cơ khí"
 107,Kỹ thuật cơ bản
 108,Nguyên lý chi tiết máy
 109,Thực hành dự án kỹ thuật
 110,Vật liệu và qui trình
-111,"Tiếng Anh chuyên ngành cơ khí
-"
+111,"Tiếng Anh chuyên ngành cơ khí"
 112,Quản lý và chế tạo nâng cao
 113,Thực hành thiết kế chi tiết trên máy tính 2
 114,Kỹ thuật thiết bị và qui trình bảo trì
 115,Thực hành Kỹ thuật thiết bị và qui trình bảo trì
 116,Giáo dục thể chất
-117,"Chính trị 
-"
-118,"Giáo dục quốc phòng
-"
+117,"Chính trị"
+118,"Giáo dục quốc phòng"
 119,Thực hành kỹ thuật chế tạo nâng cao
 120,"Chế tạo, kiểm soát qui trình và quản lý chất lượng bồn áp lực"
 121,"Chế tạo, kiểm soát qui trình và quản lý chất lượng kết cấu thép"
-122,"Chế tạo, kiểm soát qui trình và quản lý chất lượng hệ thống thông gió
-"
-123,"Giải quyết vấn đề kỹ thuật 
-
-"
+122,"Chế tạo, kiểm soát qui trình và quản lý chất lượng hệ thống thông gió"
+123,"Giải quyết vấn đề kỹ thuật"
 124,Đồ án tốt nghiệp
 125,Cơ học vật rắn
 126,Cơ lưu chất và nhiệt động lực học kỹ thuật
@@ -620,8 +605,7 @@ id,course
 604,"Phân biệt, sắp xếp và sử dụng các loại vật liệu gia công và phụ liệu; Xử lý nhiệt"
 605,"Lập trình cho các thiết bị, máy hoặc hệ thống điều khiển số"
 606,Gia công trên các máy công cụ trên cơ sở ứng dụng các phương pháp gia công khác nhau 1
-607,"Lắp đặt và kiểm tra các cụm điều khiển thủy lực, 
-khí nén và điện khí nén"
+607,"Lắp đặt và kiểm tra các cụm điều khiển thủy lực, khí nén và điện khí nén"
 608,Lắp ráp và đưa hệ thống vào hoạt động
 609,Bảo trì các hệ thống kỹ thuật
 610,Thực tập tại công ty 1
@@ -663,12 +647,10 @@ khí nén và điện khí nén"
 646,Bảo trì chi tiết và cấu kiện
 647,Lập trình trên máy và thiết bị
 648,Kiểm tra
-649,"Quá trình kinh doanh và hệ thống bảo đảm 
-chất lượng trong lĩnh vực sử dụng 1"
+649,"Quá trình kinh doanh và hệ thống bảo đảm chất lượng trong lĩnh vực sử dụng 1"
 650,Thực tập tại công ty 
 651,Sản xuất các chi tiết và cấu kiện 2
-652,"Quá trình kinh doanh và hệ thống bảo đảm 
-chất lượng trong lĩnh vực sử dụng 2"
+652,"Quá trình kinh doanh và hệ thống bảo đảm chất lượng trong lĩnh vực sử dụng 2"
 653,Bảo trì các thiết bị vận hành
 654,Sản xuất chế tạo cấu kiện bằng máy móc
 655,Đo và kiểm tra 1

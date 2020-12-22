@@ -64,7 +64,7 @@ class SchedulingState(State):
         minSession: Dict[str, int] = dict()
         maxSession: Dict[str, int] = dict()
         for item in self.__computedSchedule:
-            key = item.produceClassKey()
+            key = item.produceClassCourseKey()
             if key not in totalSessions:
                 totalSessions[key] = 1
                 minSession[key] = item.sessionID

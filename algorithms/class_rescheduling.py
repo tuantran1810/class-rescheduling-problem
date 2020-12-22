@@ -6,8 +6,8 @@ from utils import SchedulingItem, SchedulingRequirement
 from copy import deepcopy
 
 class SchedulingState(State):
-    def __init__(self, 
-        origSchedule: List[SchedulingItem], 
+    def __init__(self,
+        origSchedule: List[SchedulingItem],
         requirements: List[SchedulingRequirement],
         courseTeacherMap: Dict[int, List[int]],
         weight: Dict[str, float],
@@ -31,7 +31,7 @@ class SchedulingState(State):
 
     def duplicate(self) -> Any:
         return deepcopy(self)
-    
+
     def __violatedTeachers(self) -> int:
         result: int = 0
         validTeachersSet: Set[str] = set()

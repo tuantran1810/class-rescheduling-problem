@@ -1,13 +1,14 @@
+import sys
 from loguru import logger as log
 from typing import List, Set, Dict, Generator, Optional
 from utils import SchedulingRequirement, SchedulingItem, TimeTable
-from .simulated_annealing import SimulatedAnnealingAlgorithm
+from .simulated_annealing import SimulatedAnnealingAlgorithm, LoggingItem
 from .class_rescheduling import SchedulingState
 
 class Handler:
-    def __init__(self, 
-        timeTable: TimeTable, 
-        classesToReschedule: List[int], 
+    def __init__(self,
+        timeTable: TimeTable,
+        classesToReschedule: List[int],
         rescheduledSessionStart: int,
         epochs: int,
         adjacencyStates: int,
@@ -27,9 +28,12 @@ class Handler:
             self.__lossFunction,
             self.__getNextStates,
             self.__logFunction,
+            self.__earlyStopFunction,
+            initTemp = 10,
+            finalTemp = 0.01,
         )
         self.__bestState: Optional[SchedulingState] = None
-    
+
     def __getFirstState(self) -> SchedulingState:
         return SchedulingState(
             self.__remainingSchedules,
@@ -38,10 +42,10 @@ class Handler:
             {
                 "classes": 1.0,
                 "teachers": 1.0,
-            }, 
+            },
             900,
         )
-    
+
     def __lossFunction(self, state1: SchedulingState, state2: SchedulingState) -> float:
         score1: int = state1.getScore()
         score2: int = state2.getScore()
@@ -53,9 +57,15 @@ class Handler:
             nxtState.permuteSchedule(2, 2)
             yield nxtState
 
-    def __logFunction(self, state: SchedulingState) -> None:
-        self.__bestState = state
-        log.info("score = {}".format(state.getScore()))
+    def __logFunction(self, logging: LoggingItem) -> None:
+        if self.__bestState is None:
+            self.__bestState = logging.state
+        if logging.state > self.__bestState:
+            self.__bestState = logging.state
+        log.info(logging)
+
+    def __earlyStopFunction(self, state: SchedulingState) -> bool:
+        return abs(state.getScore()) < sys.float_info.epsilon
 
     def __preprocess(self):
         requirements: Dict[str, SchedulingRequirement] = {}

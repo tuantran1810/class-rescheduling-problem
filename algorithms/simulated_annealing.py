@@ -20,7 +20,7 @@ class SimulatedAnnealingAlgorithm:
         nextStatesFn: Callable[[State], State], 
         logFn: Callable[[State], None], 
         initTemp: float = 100.0, 
-        coolingRate: float = 0.1,
+        coolingRate: float = 0.95,
     ) -> None:
         self.__state: Callable[[], State] = firstStateFn()
         self.__getNextStates: Callable[[State], State] = nextStatesFn
@@ -34,16 +34,20 @@ class SimulatedAnnealingAlgorithm:
             worseNeighbors: List[State] = list()
             recentState = self.__state
             for nxtState in self.__getNextStates(recentState):
+                # print(recentState)
+                # print(nxtState)
                 if nxtState > recentState:
+                    # print("yoyo")
                     recentState = nxtState
                 else:
                     loss: float = self.__getLoss(recentState, nxtState)
                     prob: float = exp(-(loss/(self.__temp + sys.float_info.epsilon)))
+                    print(f"loss = {loss}, prob = {prob}, temp = {self.__temp}")
                     if prob >= random():
                         worseNeighbors.append(nxtState)
                         recentState = nxtState
 
-            if len(worseNeighbors) and (self.__state.getScore() > recentState.getScore()):
-                self.__state = choice(worseNeighbors)
+            # if len(worseNeighbors) and (self.__state.getScore() > recentState.getScore()):
+            self.__state = recentState
             self.__logFn(self.__state)
             self.__temp *= self.__coolingRate

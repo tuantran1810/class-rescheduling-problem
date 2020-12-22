@@ -87,3 +87,16 @@ class SchedulingState(State):
 
     def __gt__(self, other):
         return self.getScore() > other.getScore()
+
+    def __str__(self) -> str:
+        result = "==============================\n\
+            There are {} original schedules\n\
+            There are {} computed schedules:\n\
+            {}\n\
+            score: {}".format(
+                len(self.__origSchedule),
+                len(self.__computedSchedule),
+                "\n".join(map(str, self.__computedSchedule)),
+                self.getScore(),
+            )
+        return result

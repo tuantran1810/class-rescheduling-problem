@@ -4,6 +4,7 @@ from typing import (
     Dict,
     List,
     Generator,
+    Set,
 )
 import pickle
 
@@ -35,6 +36,14 @@ class SchedulingItem:
 
     def produceClassCourseKey(self):
         return "{}-{}".format(self.classID, self.courseID)
+
+    def __str__(self) -> str:
+        return "class {} learn the course {} with teacher {} on the session {}".format(
+            self.classID,
+            self.courseID,
+            self.teacherID,
+            self.sessionID,
+        )
 
 class TimeTable:
     def __init__(self):
@@ -119,6 +128,10 @@ class TimeTable:
         for item in self._schedulingItems:
             classSet.add(item.classID)
         return sorted(classSet)
+
+    def limitClasses(self, classes: List[int]) -> None:
+        classesSet: Set[int] = set(classes)
+        self._schedulingItems = list(filter(lambda x: x.classID in classesSet, self._schedulingItems))
 
     def __str__(self) -> str:
         soonestSession: int = 1000000

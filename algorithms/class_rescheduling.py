@@ -80,6 +80,7 @@ class SchedulingState(State):
             maxses = maxSession[key]
             minses = minSession[key]
             tmp = maxses - minses + 1 - total
+            # print(tmp)
             if tmp > 0:
                 moreSessions += tmp
         return moreSessions
@@ -88,7 +89,12 @@ class SchedulingState(State):
         vteachers: int = self.__violatedTeachers()
         vclasses: int = self.__violatedClasses()
         moreSessions: int = self.__moreSessionsOnCourse()
-        score: float = (vteachers*self.__weight["teachers"] + vclasses*self.__weight["classes"] + moreSessions)*(-1.0)
+        # print(self.__weight)
+        score: float = (
+            vteachers*self.__weight["teachers"] + 
+            vclasses*self.__weight["classes"] + 
+            moreSessions*self.__weight["sessions"]
+        )*(-1.0)
         self.__score = score
         return score
 
@@ -111,6 +117,12 @@ class SchedulingState(State):
         if self.__score is not None:
             return self.__score
         return self.__calculateScore()
+
+    def setWeight(self, weight) -> None:
+        self.__weight = weight
+
+    def clearScore(self) -> None:
+        self.__score = None
 
     def __gt__(self, other):
         return self.getScore() > other.getScore()

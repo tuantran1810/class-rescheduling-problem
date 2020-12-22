@@ -12,6 +12,9 @@ class Handler:
         rescheduledSessionStart: int,
         epochs: int,
         adjacencyStates: int,
+        initTemp: float = 10.0,
+        finalTemp: float = 0.01,
+        firstState: Optional[SchedulingState] = None,
     ):
         self.__timeTable: TimeTable = timeTable
         self.__classesToReschedule: Set[int] = set(classesToReschedule)
@@ -23,28 +26,31 @@ class Handler:
         ))
         self.__epochs = epochs
         self.__adjacencyStates = adjacencyStates
+        self.__bestState: Optional[SchedulingState] = firstState
         self.__alg: SimulatedAnnealingAlgorithm = SimulatedAnnealingAlgorithm(
             self.__getFirstState,
             self.__lossFunction,
             self.__getNextStates,
             self.__logFunction,
             self.__earlyStopFunction,
-            initTemp = 10,
-            finalTemp = 0.01,
-        )
-        self.__bestState: Optional[SchedulingState] = None
+            initTemp = initTemp,
+            finalTemp = finalTemp,
+        )  
 
     def __getFirstState(self) -> SchedulingState:
-        return SchedulingState(
-            self.__remainingSchedules,
-            self.__requirement,
-            self.__timeTable.courseTeachersMap,
-            {
-                "classes": 1.0,
-                "teachers": 1.0,
-            },
-            900,
-        )
+        if self.__bestState is None:
+            return SchedulingState(
+                self.__remainingSchedules,
+                self.__requirement,
+                self.__timeTable.courseTeachersMap,
+                {
+                    "classes": 1.0,
+                    "teachers": 1.0,
+                    "sessions": 0.0,
+                },
+                900,
+            )
+        return self.__bestState
 
     def __lossFunction(self, state1: SchedulingState, state2: SchedulingState) -> float:
         score1: int = state1.getScore()

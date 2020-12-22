@@ -64,6 +64,8 @@ class TimeTable:
             for value in self._schedulingItems:
                 if value.courseID == courseid:
                     teachers.append(value.teacherID)
+            if len(teachers) == 0:
+                log.warning("the {} course does not have any teacher".format(courseid))
             self._courseToTeachers[courseid] = teachers
 
     def _buildTeacherCourseMap(self):
@@ -75,6 +77,8 @@ class TimeTable:
             for value in self._schedulingItems:
                 if value.teacherID == teacherid:
                     courses.append(value.courseID)
+            if len(courses) == 0:
+                log.warning("the {} teacher does not have any course".format(teacherid))
             self._teacherToCourses[teacherid] = courses
 
     def __str__(self):

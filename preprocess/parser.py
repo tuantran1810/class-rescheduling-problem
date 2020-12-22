@@ -33,8 +33,9 @@ class CsvParser:
     def readLine(self) -> Generator[List, None, None]:
         with open(self.__filePath, "r") as csvfile:
             csvreader = csv.reader(csvfile) 
-            for line in csvreader:
-                yield line
+            for i, line in enumerate(csvreader):
+                if i != 0:
+                    yield line
 
     def readLines(self) -> List:
         return list(self.readLine())
@@ -95,19 +96,22 @@ class TimeTableParser:
                 for n in range(0, int((end - start).days) + 1, 7):
                     curr = start + timedelta(days=n)
                     duration = (curr - START_OF_TIMETABLE).days
-                    if line[7] == 1:
+                    if line[7] == "1":
                         duration = 2*duration
                     else:
                         duration = 2*duration + 1
                     self.timeTable.addSchedule(utils.SchedulingItem(line[1], line[2], line[3], duration))
 
+    @utils.timeExecute
     def Parse(self):
         self._buildClasses()
         self._buildCourses()
         self._buildTeachers()
         self._buildTimeTable()
         self.timeTable.Build()
+        log.info("Parse time table successfully !!!!")
 
     def ToPickle(self):
         with open(self.path + "/" + TIMETABLE_OUTPUT_NAME, 'wb') as handle:
             pickle.dump(self.timeTable, handle, protocol=pickle.HIGHEST_PROTOCOL)
+            log.info("Save to pickle successfully !!!!")

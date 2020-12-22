@@ -72,8 +72,9 @@ class Handler:
             self.__bestState = logging.state
         log.info(logging)
         if logging.epoch % 1000 == 0:
-            self.dumpStatLogging('data/state-backup-{}'.format(logging.epoch)) 
-        self.__statLogging.append(logging)
+            with open('data/state-backup-{}.pkl'.format(logging.epoch), 'wb') as handle:
+                pickle.dump(logging, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        self.__statLogging.append([logging.epoch, logging.state.getScore(), logging.avgLoss, logging.temp])
 
     def __earlyStopFunction(self, state: SchedulingState) -> bool:
         return abs(state.getScore()) < sys.float_info.epsilon
@@ -99,8 +100,6 @@ class Handler:
         self.__alg(self.__epochs)
         return self.__bestState
 
-    def dumpStatLogging(self, path=''):
-        if path == '':
-            path = 'data/logging.pkl'
-        with open(path, 'wb') as handle:
+    def dumpStatLogging(self):
+        with open('data/logging.pkl', 'wb') as handle:
             pickle.dump(self.__statLogging, handle, protocol=pickle.HIGHEST_PROTOCOL)

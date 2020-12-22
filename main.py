@@ -22,6 +22,9 @@ def main():
     log.info(f"reschedule for classes: {rescheduleClasses}")
     handler: Handler = Handler(timeTable, rescheduleClasses, SESSION_START_RESCHEDULING, EPOCHS, ADJACENCY_STATES, initTemp=10.0, finalTemp=0.01)
     bestState: SchedulingState = handler.start()
+    handler.dumpStatLogging()
+    bestState.toCsv('result.csv')
+    print(bestState)
 
     log.info("===========Phase 2===========")
     bestState.setWeight(

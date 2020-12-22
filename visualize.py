@@ -10,8 +10,8 @@ def plotTemp(data):
     x = []
     y = []
     for v in data:
-        x.append(v.epoch)
-        y.append(v.temp)
+        x.append(v[0])
+        y.append(v[3])
     plt.plot(x, y)
     plt.ylabel('Temp')
     plt.xlabel('Epoch')
@@ -22,8 +22,8 @@ def plotAvgLoss(data):
     x = []
     y = []
     for v in data:
-        x.append(v.epoch)
-        y.append(v.avgLoss)
+        x.append(v[0])
+        y.append(v[2])
     plt.plot(x, y)
     plt.ylabel('avgLoss')
     plt.xlabel('Epoch')
@@ -34,8 +34,8 @@ def plotScore(data):
     x = []
     y = []
     for v in data:
-        x.append(v.epoch)
-        y.append(v.state.getScore())
+        x.append(v[0])
+        y.append(v[1])
     plt.plot(x, y)
     plt.ylabel('score')
     plt.xlabel('Epoch')

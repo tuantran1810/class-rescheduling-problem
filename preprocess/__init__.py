@@ -1,1 +1,1 @@
-from .parser import TimeTableParser, session2Date
+from .parser import TimeTableParser

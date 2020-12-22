@@ -15,12 +15,12 @@ class State:
 
 class SimulatedAnnealingAlgorithm:
     def __init__(self, 
-    firstStateFn: Callable[[], State], 
-    lossFn: Callable[[State, State], float], 
-    nextStatesFn: Callable[[State], State], 
-    logFn: Callable[[State], None], 
-    initTemp: float = 100.0, 
-    coolingRate: float = 0.1,
+        firstStateFn: Callable[[], State], 
+        lossFn: Callable[[State, State], float], 
+        nextStatesFn: Callable[[State], State], 
+        logFn: Callable[[State], None], 
+        initTemp: float = 100.0, 
+        coolingRate: float = 0.1,
     ) -> None:
         self.__state: Callable[[], State] = firstStateFn()
         self.__getNextStates: Callable[[State], State] = nextStatesFn
@@ -29,11 +29,11 @@ class SimulatedAnnealingAlgorithm:
         self.__temp: float = initTemp
         self.__coolingRate: float = coolingRate
         
-    def start(self, epochs):
+    def __call__(self, epochs):
         for i in range(epochs):
             worseNeighbors: List[State] = list()
             recentState = self.__state
-            for nxtState in self.__getNextStates():
+            for nxtState in self.__getNextStates(recentState):
                 if nxtState > recentState:
                     recentState = nxtState
                 else:

@@ -1,6 +1,7 @@
 import time
+import pickle
 from loguru import logger as log
-
+from .timetable import TimeTable
 
 def timeExecute(method):
     def timed(*args, **kwargs):
@@ -14,3 +15,7 @@ def timeExecute(method):
         )
         return result
     return timed
+
+def loadTimeTable(path: str) -> TimeTable:
+    with open(path, 'rb') as fd:
+        return pickle.load(fd)

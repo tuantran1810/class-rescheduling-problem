@@ -2,15 +2,39 @@ from loguru import logger as log
 from dataclasses import dataclass
 from typing import (
     Dict,
+    List,
+    Generator,
 )
 import pickle
 
 @dataclass
+class SchedulingRequirement:
+    classID: int = 0
+    courseID: int = 0
+    fromSession: int = 0
+    nsessions: int = 0
+
+    def __str__(self) -> str:
+        return "schedule {} sessions for class {} with the course {} starting from session {}".format (
+            self.nsessions, self.classID, self.courseID, self.fromSession
+        )
+
+@dataclass
 class SchedulingItem:
-    classID:   int = 0
-    courseID:  int = 0
-    teacherID: int = 0
-    seasonID:  int = 0
+    classID:     int = 0
+    courseID:    int = 0
+    teacherID:   int = 0
+    sessionID:    int = 0
+    fromSession: int = 0
+
+    def produceTeacherKey(self):
+        return "{}-{}".format(self.sessionID, self.teacherID)
+
+    def produceClassKey(self):
+        return "{}-{}".format(self.sessionID, self.classID)
+
+    def produceClassCourseKey(self):
+        return "{}-{}".format(self.classID, self.courseID)
 
 class TimeTable:
     def __init__(self):
@@ -81,8 +105,34 @@ class TimeTable:
                 log.warning("the {} teacher does not have any course".format(teacherid))
             self._teacherToCourses[teacherid] = courses
 
-    def __str__(self):
-        s = "There are {} schedule in timetable.\n \
-            {} class id, {} course id, {} teacher id".format(
-            len(self._table), len(self._classIDMap),
-            len(self._courseIDMap), len(self._teacherIDMap))
+    def allSchedules(self) -> Generator[SchedulingItem, None, None]:
+        for item in self._schedulingItems:
+            yield item
+
+    @property
+    def courseTeachersMap(self):
+        return self._courseToTeachers
+
+    @property
+    def availableClasses(self) -> List[int]:
+        classSet: Set[int] = set()
+        for item in self._schedulingItems:
+            classSet.add(item.classID)
+        return sorted(classSet)
+
+    def __str__(self) -> str:
+        soonestSession: int = 1000000
+        latestSession: int = 0
+        for item in self._schedulingItems:
+            if item.sessionID > latestSession:
+                latestSession = item.sessionID
+            if item.sessionID < soonestSession:
+                soonestSession = item.sessionID
+        s: str = "There are {} schedules in timetable.\n \
+            {} class ids, {} course ids, {} teacher ids.\n \
+            soonest session: {}, latest session: {}.\n \
+            all available classes: {}".format(
+            len(self._schedulingItems), len(self._classIDMap),
+            len(self._courseIDMap), len(self._teacherIDMap),
+            soonestSession, latestSession, self.availableClasses)
+        return s

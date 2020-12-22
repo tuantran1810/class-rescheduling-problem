@@ -54,7 +54,7 @@ class TimeTableParser:
         _classid = {}
         for line in _reader.readLine():
             if line is not None and len(line) == 2:
-                _classid[line[0]] = line[1]
+                _classid[int(line[0])] = line[1]
             else:
                 log.warn("Incorrect format: {}".format(line))
         self.timeTable.classIDMap = _classid
@@ -64,7 +64,7 @@ class TimeTableParser:
         _courseid = {}
         for line in _reader.readLine():
             if line is not None and len(line) == 2:
-                _courseid[line[0]] = line[1]
+                _courseid[int(line[0])] = line[1]
             else:
                 log.warn("Incorrect format: {}".format(line))
         self.timeTable.courseIDMap = _courseid
@@ -74,7 +74,7 @@ class TimeTableParser:
         _teacherid = {}
         for line in _reader.readLine():
             if line is not None and len(line) == 2:
-                _teacherid[line[0]] = line[1]
+                _teacherid[int(line[0])] = line[1]
             else:
                 log.warn("Incorrect format: {}".format(line))
         self.timeTable.teacherIDMap = _teacherid
@@ -100,7 +100,7 @@ class TimeTableParser:
                         duration = 2*duration
                     else:
                         duration = 2*duration + 1
-                    self.timeTable.addSchedule(utils.SchedulingItem(line[1], line[2], line[3], duration))
+                    self.timeTable.addSchedule(utils.SchedulingItem(int(line[1]), int(line[2]), int(line[3]), duration))
 
     @utils.timeExecute
     def Parse(self):

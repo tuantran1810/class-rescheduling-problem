@@ -1,52 +1,36 @@
 from dataclasses import dataclass
 from algorithms.simulated_annealing import State
-from typing import List, Dict, Set, Optional
+from typing import List, Dict, Set, Optional, Any
 from random import choice, randint
-
-@dataclass
-class SchedulingItem:
-    classId: int
-    courseId: int
-    teacherId: int
-    sessionId: int
-    fromSession: int = -1
-
-    def produceTeacherKey(self):
-        return "{}-{}".format(self.sessionId, self.teacherId)
-
-    def produceClassKey(self):
-        return "{}-{}".format(self.sessionId, self.classId)
-
-@dataclass
-class SchedulingRequirement:
-    classId: int
-    courseId: int
-    fromSession: int
-    nsessions: int
+from utils import SchedulingItem, SchedulingRequirement
+from copy import deepcopy
 
 class SchedulingState(State):
     def __init__(self, 
         origSchedule: List[SchedulingItem], 
         requirements: List[SchedulingRequirement],
-        courseTeacherMap: Dict[int][List[int]],
-        weight: Dict[str][float],
+        courseTeacherMap: Dict[int, List[int]],
+        weight: Dict[str, float],
         sessionMax: int,
     ) -> None:
         self.__origSchedule: List[SchedulingItem] = origSchedule
-        self.__courseTeacherMap: Dict[int][List[int]] = courseTeacherMap
+        self.__courseTeacherMap: Dict[int, List[int]] = courseTeacherMap
         self.__computedSchedule: List[SchedulingItem] = self.__generateSchedule(requirements)
-        self.__weight: Dict[str][float] = weight
-        self.__sessionMax = sessionMax
+        self.__weight: Dict[str, float] = weight
+        self.__sessionMax: int = sessionMax
         self.__score: Optional[float] = None
 
     def __generateSchedule(self, requirements: List[SchedulingRequirement]) -> List[SchedulingItem]:
         result: List[SchedulingItem] = list()
         for req in requirements:
-            teachers: List[int] = self.__courseTeacherMap[req.courseId]
+            teachers: List[int] = self.__courseTeacherMap[req.courseID]
             for i in range(req.nsessions):
-                item = SchedulingItem(req.classId, req.courseId, choice(teachers), i + req.fromSession, req.fromSession)
+                item = SchedulingItem(req.classID, req.courseID, choice(teachers), i + req.fromSession, req.fromSession)
                 result.append(item)
         return result
+
+    def duplicate(self) -> Any:
+        return deepcopy(self)
     
     def __violatedTeachers(self) -> int:
         result: int = 0
@@ -61,7 +45,7 @@ class SchedulingState(State):
                 validTeachersSet.add(key)
         return result
 
-    def __violatedClasses(self):
+    def __violatedClasses(self) -> int:
         result: int = 0
         validClassesSet: Set[str] = set()
         for item in self.__origSchedule:
@@ -83,11 +67,11 @@ class SchedulingState(State):
 
     def __changeSessionRandomly(self):
         item = choice(self.__computedSchedule)
-        item.sessionId = randint(item.fromSession, self.__sessionRange)
+        item.sessionID = randint(item.fromSession, self.__sessionMax)
 
     def __changeTeacherRandomly(self):
         item = choice(self.__computedSchedule)
-        item.teacherId = choice(self.__courseTeacherMap[item.courseId])
+        item.teacherID = choice(self.__courseTeacherMap[item.courseID])
 
     def permuteSchedule(self, ksessions: int, kteachers: int):
         self.__score = None

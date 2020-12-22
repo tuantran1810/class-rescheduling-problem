@@ -1,4 +1,5 @@
 import sys
+import pickle
 from loguru import logger as log
 from typing import List, Set, Dict, Generator, Optional
 from utils import SchedulingRequirement, SchedulingItem, TimeTable
@@ -36,6 +37,7 @@ class Handler:
             initTemp = initTemp,
             finalTemp = finalTemp,
         )  
+        self.__statLogging: List[LoggingItem] = []
 
     def __getFirstState(self) -> SchedulingState:
         if self.__bestState is None:
@@ -69,6 +71,9 @@ class Handler:
         if logging.state > self.__bestState:
             self.__bestState = logging.state
         log.info(logging)
+        if logging.epoch % 1000 == 0:
+            self.dumpStatLogging('data/state-backup-{}'.format(logging.epoch)) 
+        self.__statLogging.append(logging)
 
     def __earlyStopFunction(self, state: SchedulingState) -> bool:
         return abs(state.getScore()) < sys.float_info.epsilon
@@ -93,3 +98,9 @@ class Handler:
     def start(self) -> SchedulingState:
         self.__alg(self.__epochs)
         return self.__bestState
+
+    def dumpStatLogging(self, path=''):
+        if path == '':
+            path = 'data/logging.pkl'
+        with open(path, 'wb') as handle:
+            pickle.dump(self.__statLogging, handle, protocol=pickle.HIGHEST_PROTOCOL)

@@ -1,5 +1,6 @@
 import time
 import pickle
+import csv
 from loguru import logger as log
 from .timetable import TimeTable
 

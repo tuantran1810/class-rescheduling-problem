@@ -33,7 +33,10 @@ def main():
     )
     bestState.clearScore()
     handlerPhase2: Handler = Handler(timeTable, rescheduleClasses, SESSION_START_RESCHEDULING, EPOCHS*20, ADJACENCY_STATES, initTemp=100.0, finalTemp=0.01, firstState = bestState)
-    print(handlerPhase2.start())
+    ret = handlerPhase2.start()
+    handlerPhase2.dumpStatLogging()
+    ret.toCsv('result.csv')
+    print(ret)
 
 if __name__ == "__main__":
     main()

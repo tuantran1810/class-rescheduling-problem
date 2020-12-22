@@ -4,6 +4,7 @@ from typing import List, Dict, Set, Optional, Any
 from random import choice, randint
 from utils import SchedulingItem, SchedulingRequirement
 from copy import deepcopy
+import csv
 
 class SchedulingState(State):
     def __init__(self,
@@ -139,3 +140,10 @@ class SchedulingState(State):
                 self.getScore(),
             )
         return result
+
+    def toCsv(self, path):
+        with open(path, 'w') as f:
+            write = csv.writer(f) 
+            write.writerow(['classid', 'courseid', 'teacherid', 'date', 'time'])
+            data = [v.dump() for v in self.__computedSchedule]
+            write.writerows(data)  

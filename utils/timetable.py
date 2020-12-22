@@ -1,5 +1,6 @@
 from loguru import logger as log
 from dataclasses import dataclass
+from datetime import datetime, timedelta
 from typing import (
     Dict,
     List,
@@ -8,6 +9,16 @@ from typing import (
 )
 import pickle
 
+def session2Date(id: int) -> str:
+    duration = 0
+    if id%2 == 0:
+        duration = int(id/2)
+        time = 'morning'
+    else:
+        duration = int((id-1)/2)
+        time = 'afternoon'
+    date = datetime.strptime('01/01/2020', "%m/%d/%Y") + timedelta(days=duration)
+    return '{} {}'.format(date.date(), time)
 @dataclass
 class SchedulingRequirement:
     classID: int = 0
@@ -38,12 +49,16 @@ class SchedulingItem:
         return "{}-{}".format(self.classID, self.courseID)
 
     def __str__(self) -> str:
-        return "class {} learn the course {} with teacher {} on the session {}".format(
+        return "class {} learn the course {} with teacher {} on {}".format(
             self.classID,
             self.courseID,
             self.teacherID,
-            self.sessionID,
+            session2Date(self.sessionID),
         )
+
+    def dump(self) -> List:
+        return [str(self.classID), str(self.courseID), str(self.teacherID),
+                session2Date(self.sessionID).split(' ')[0], session2Date(self.sessionID).split(' ')[1]]
 
 class TimeTable:
     def __init__(self):

@@ -154,4 +154,7 @@ class SchedulingState(State):
             write = csv.writer(f) 
             write.writerow(['classid', 'courseid', 'teacherid', 'date', 'time'])
             data = [v.dump() for v in self.__computedSchedule]
-            write.writerows(data)  
+            write.writerows(data)
+
+    def getComputedSchedule(self):
+        return self.__computedSchedule

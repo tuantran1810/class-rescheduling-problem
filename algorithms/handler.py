@@ -78,7 +78,7 @@ class Handler:
         if logging.state > self.__bestState:
             self.__bestState = logging.state
         log.info(logging)
-        if logging.epoch % 1000 == 0:
+        if logging.epoch % 1000 == 0 or logging.epoch == self.__epochs-1:
             with open(self.__backupPath + 'state-backup-{}.pkl'.format(logging.epoch), 'wb') as handle:
                 pickle.dump(logging, handle, protocol=pickle.HIGHEST_PROTOCOL)
         self.__statLogging.append([logging.epoch, logging.state.getScore(), logging.avgLoss, logging.temp])

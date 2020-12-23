@@ -4,30 +4,37 @@ from loguru import logger as log
 from typing import List, Set, Dict, Generator, Optional
 from utils import SchedulingRequirement, SchedulingItem, TimeTable
 from .simulated_annealing import SimulatedAnnealingAlgorithm, LoggingItem
-from .class_rescheduling import SchedulingState
+from .class_rescheduling import SchedulingState, OptimalWeight
 
 class Handler:
     def __init__(self,
         timeTable: TimeTable,
         classesToReschedule: List[int],
         rescheduledSessionStart: int,
+        rescheduledSessionEnd: int,
         epochs: int,
         adjacencyStates: int,
+        weight: OptimalWeight,
         initTemp: float = 10.0,
         finalTemp: float = 0.01,
+        backupPicklePath: str = "data/",
         firstState: Optional[SchedulingState] = None,
     ):
         self.__timeTable: TimeTable = timeTable
         self.__classesToReschedule: Set[int] = set(classesToReschedule)
         self.__rescheduledSessionStart = rescheduledSessionStart
+        self.__rescheduledSessionEnd = rescheduledSessionEnd
+
         self.__requirement, self.__remainingSchedules = self.__preprocess()
         log.info("there are {} schedules remaining and {} requirement items, rescheduling requirements:\n{}".format(
             len(self.__remainingSchedules), len(self.__requirement),
             "\n".join(list(map(str, self.__requirement)))
         ))
+
         self.__epochs = epochs
         self.__adjacencyStates = adjacencyStates
         self.__bestState: Optional[SchedulingState] = firstState
+        self.__weight = weight
         self.__alg: SimulatedAnnealingAlgorithm = SimulatedAnnealingAlgorithm(
             self.__getFirstState,
             self.__lossFunction,
@@ -38,6 +45,7 @@ class Handler:
             finalTemp = finalTemp,
         )  
         self.__statLogging: List[LoggingItem] = []
+        self.__backupPath: str = backupPicklePath
 
     def __getFirstState(self) -> SchedulingState:
         if self.__bestState is None:
@@ -45,13 +53,12 @@ class Handler:
                 self.__remainingSchedules,
                 self.__requirement,
                 self.__timeTable.courseTeachersMap,
-                {
-                    "classes": 1.0,
-                    "teachers": 1.0,
-                    "sessions": 0.0,
-                },
-                900,
+                self.__weight,
+                self.__rescheduledSessionEnd,
             )
+        
+        self.__bestState.clearScore()
+        self.__bestState.setWeight(self.__weight)
         return self.__bestState
 
     def __lossFunction(self, state1: SchedulingState, state2: SchedulingState) -> float:
@@ -72,7 +79,7 @@ class Handler:
             self.__bestState = logging.state
         log.info(logging)
         if logging.epoch % 1000 == 0:
-            with open('data/state-backup-{}.pkl'.format(logging.epoch), 'wb') as handle:
+            with open(self.__backupPath + 'state-backup-{}.pkl'.format(logging.epoch), 'wb') as handle:
                 pickle.dump(logging, handle, protocol=pickle.HIGHEST_PROTOCOL)
         self.__statLogging.append([logging.epoch, logging.state.getScore(), logging.avgLoss, logging.temp])
 
@@ -101,5 +108,5 @@ class Handler:
         return self.__bestState
 
     def dumpStatLogging(self):
-        with open('data/logging.pkl', 'wb') as handle:
+        with open(self.__backupPath + "logging.pkl", 'wb') as handle:
             pickle.dump(self.__statLogging, handle, protocol=pickle.HIGHEST_PROTOCOL)

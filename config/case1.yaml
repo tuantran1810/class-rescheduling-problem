@@ -1,0 +1,23 @@
+timetable_pickle: ./data/timetable.pkl
+all_classes: [2, 3, 4, 7, 9, 11, 17, 18, 19, 22]
+rescheduled_classes: [2, 3, 4]
+first_rescheduled_session: 600
+last_rescheduled_session: 900
+adjacency_states: 10
+phase1:
+  init_temp: 10.0
+  final_temp: 0.01
+  epochs: 500
+  weight:
+    classes: 1.0
+    teachers: 1.0
+    sessions: 0.0
+phase2:
+  init_temp: 100.0
+  final_temp: 0.01
+  epochs: 10000
+  weight:
+    classes: 100000.0
+    teachers: 100000.0
+    sessions: 1.0
+output_path: ./output/

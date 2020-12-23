@@ -6,18 +6,25 @@ from utils import SchedulingItem, SchedulingRequirement
 from copy import deepcopy
 import csv
 
+@dataclass
+class OptimalWeight:
+    classes: float = 1.0
+    teachers: float = 1.0
+    sessions: float = 1.0
+
+
 class SchedulingState(State):
     def __init__(self,
         origSchedule: List[SchedulingItem],
         requirements: List[SchedulingRequirement],
         courseTeacherMap: Dict[int, List[int]],
-        weight: Dict[str, float],
+        weight: OptimalWeight,
         sessionMax: int,
     ) -> None:
         self.__origSchedule: List[SchedulingItem] = origSchedule
         self.__courseTeacherMap: Dict[int, List[int]] = courseTeacherMap
         self.__computedSchedule: List[SchedulingItem] = self.__generateSchedule(requirements)
-        self.__weight: Dict[str, float] = weight
+        self.__weight: OptimalWeight = weight
         self.__sessionMax: int = sessionMax
         self.__score: Optional[float] = None
 
@@ -61,11 +68,11 @@ class SchedulingState(State):
 
     def __moreSessionsOnCourse(self) -> float:
         moreSessions: int = 0
-        totalSessions: Dict[str, int] = dict()
-        minSession: Dict[str, int] = dict()
-        maxSession: Dict[str, int] = dict()
+        totalSessions: Dict[int, int] = dict()
+        minSession: Dict[int, int] = dict()
+        maxSession: Dict[int, int] = dict()
         for item in self.__computedSchedule:
-            key = item.produceClassCourseKey()
+            key = item.classID
             if key not in totalSessions:
                 totalSessions[key] = 1
                 minSession[key] = item.sessionID
@@ -76,25 +83,26 @@ class SchedulingState(State):
                     maxSession[key] = item.sessionID
                 if item.sessionID < minSession[key]:
                     minSession[key] = item.sessionID
+        
+        maxSessions: int = 0
         for key in totalSessions:
             total = totalSessions[key]
             maxses = maxSession[key]
             minses = minSession[key]
             tmp = maxses - minses + 1 - total
-            # print(tmp)
             if tmp > 0:
                 moreSessions += tmp
-        return moreSessions
+            maxSessions = max(maxSessions, tmp)
+        return moreSessions + len(totalSessions) * maxSessions
 
     def __calculateScore(self) -> float:
         vteachers: int = self.__violatedTeachers()
         vclasses: int = self.__violatedClasses()
         moreSessions: int = self.__moreSessionsOnCourse()
-        # print(self.__weight)
         score: float = (
-            vteachers*self.__weight["teachers"] + 
-            vclasses*self.__weight["classes"] + 
-            moreSessions*self.__weight["sessions"]
+            vteachers*self.__weight.teachers + 
+            vclasses*self.__weight.classes + 
+            moreSessions*self.__weight.sessions
         )*(-1.0)
         self.__score = score
         return score
@@ -119,7 +127,7 @@ class SchedulingState(State):
             return self.__score
         return self.__calculateScore()
 
-    def setWeight(self, weight) -> None:
+    def setWeight(self, weight: OptimalWeight) -> None:
         self.__weight = weight
 
     def clearScore(self) -> None:

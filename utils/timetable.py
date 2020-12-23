@@ -164,3 +164,7 @@ class TimeTable:
             len(self._courseIDMap), len(self._teacherIDMap),
             soonestSession, latestSession, self.availableClasses)
         return s
+
+def loadTimeTable(path: str) -> TimeTable:
+    with open(path, 'rb') as fd:
+        return pickle.load(fd)

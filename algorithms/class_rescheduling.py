@@ -61,11 +61,12 @@ class SchedulingState(State):
 
     def __moreSessionsOnCourse(self) -> float:
         moreSessions: int = 0
+        maxSessions: int = 0
         totalSessions: Dict[str, int] = dict()
         minSession: Dict[str, int] = dict()
         maxSession: Dict[str, int] = dict()
         for item in self.__computedSchedule:
-            key = item.produceClassCourseKey()
+            key = item.classID
             if key not in totalSessions:
                 totalSessions[key] = 1
                 minSession[key] = item.sessionID
@@ -84,7 +85,9 @@ class SchedulingState(State):
             # print(tmp)
             if tmp > 0:
                 moreSessions += tmp
-        return moreSessions
+            maxSessions = max(maxSessions, tmp)
+
+        return moreSessions + maxSessions*len(totalSessions)
 
     def __calculateScore(self) -> float:
         vteachers: int = self.__violatedTeachers()
